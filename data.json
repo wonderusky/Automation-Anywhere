@@ -1,10 +1,10 @@
 { 
    "MCT": [ 
           {
-            "Loan Number": "LoanID"
+            "LoanID": "Loan Number"
           },
           {
-            "Name": "Borrower"
+            "Borrower": "Name"
           },
           {
             "City": "Property City"
