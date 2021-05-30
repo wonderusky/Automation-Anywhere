@@ -16,7 +16,7 @@
    "Purpose": "Purpose",
    "PropertyType": "Property Type",
    "Borrower FICO": "Borrower FICO",
-   "Borrower2 : FICO",
+   "Borrower2" : "FICO",
    "EscrowWaiver": "Escrows",
    "Appraised Value": "Appraised Value",
    "Purchase Price": "Home Purchase Price",
@@ -30,5 +30,4 @@
    "ULI": "ULI",
    "TPO": "",
    "PIW": "PIW"
-
 }
