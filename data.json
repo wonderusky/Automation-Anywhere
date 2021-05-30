@@ -1,6 +1,4 @@
-{
-   "MCT": {
-     "": [
+"MCT": [
        {
          "LoanID": "Loan Number"
        },
@@ -92,5 +90,3 @@
          "PIW": "PIW"
        }
      ]
-   }
- }
