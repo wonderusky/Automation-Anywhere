@@ -1,94 +1,35 @@
 { 
    "MCT": [ 
-          {
-            "LoanID": "Loan Number"
-          },
-          {
-            "Borrower": "Name"
-          },
-          {
-            "City": "Property City"
-          },
-          {
-            "State": "State"
-          },
-          {
-            "Zip": "Property Zip"
-          },
-          {
-            "Procuct": "Program"
-          },
-          {
-            "Rate": "Rate"
-          },
-          {
-            "Amortization Term": "Term"
-          },
-          {
-            "Loan Amount": "Loan Amount"
-          },
-          {
-            "LTV": "LTV"
-          },
-          {
-            "CLTV": "CLTV"
-          },
-          {
-            "Occupancy": "Occupancy"
-          },
-          {
-            "Debt Ratio": "DTI"
-          },
-          {
-            "Purpose": "Purpose"
-          },
-          {
-            "PropertyType": "Property Type"
-          },
-          {
-            "Borrower FICO": "Borrower FICO"
-          },
-          {
-            "Borrower2 FICO": ""
-          },
-          {
-            "EscrowWaiver": "Escrows"
-          },
-          {
-            "Appraised Value": "Appraised Value"
-          },
-          {
-            "Purchase Price": "Home Purchase Price"
-          },
-          {
-            "Units": "Units"
-          },
-          {
-            "AUS": "AUS"
-          },
-          {
-            "Notes": "Doc Type"
-          },
-          {
-            "Lock Days": "Bid Delivery Days"
-          },
-          {
-            "Refi Purpose": ""
-          },
-          {
-            "Time Due": "Bid Time"
-          },
-          {
-            "3rd Party ID": "MCT Client ID"
-          },
-          {
-            "ULI": "ULI"
-          },
-          {
-            "TPO": ""
-          },
-          {
-            "PIW": "PIW"
-          }
+          
+         "Loan Number": "LoanID" 
+         "Borrower": "Name"
+         "City": "Property City"
+         "State": "State"
+         "Zip": "Property Zip"
+         "Procuct": "Program"
+         "Rate": "Rate"
+         "Amortization Term": "Term"
+         "Loan Amount": "Loan Amount"
+         "LTV": "LTV"
+         "CLTV": "CLTV"
+         "Occupancy": "Occupancy"
+         "Debt Ratio": "DTI"
+         "Purpose": "Purpose"
+         "PropertyType": "Property Type"
+         "Borrower FICO": "Borrower FICO"
+         "Borrower2 FICO": ""
+         "EscrowWaiver": "Escrows"
+         "Appraised Value": "Appraised Value"
+         "Purchase Price": "Home Purchase Price"
+         "Units": "Units"      
+         "AUS": "AUS"
+         "Notes": "Doc Type"
+         "Lock Days": "Bid Delivery Days"
+         "Refi Purpose": ""
+         "Time Due": "Bid Time"
+         "3rd Party ID": "MCT Client ID"
+         "ULI": "ULI"
+         "TPO": ""
+         "PIW": "PIW"
         ]
    }
