@@ -1,12 +1,12 @@
 {
     "DU": "DU",
     "LP": "LP",
-    "LP": "Investor AUS",
-    "LP": "LPA",
+    "Investor AUS": "LP",
+    "LPA": "LP",
     "Manual": "Manual",
     "MAN": "Manual",
     "GUS": "GUS",
     "NA": "N/A",
     "N/A": "N/A",
-    "Streamline": "N/A",
+    "Streamline": "N/A"
 }
