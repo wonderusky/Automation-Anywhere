@@ -1,7 +1,12 @@
 {
-    "Y": "Not Waived",
-    "Yes": "Not Waived",
-    "TO": "Insurance Waived",
-    "N": "Waived",
-    "No": "Waived"
+    "DU": "DU",
+    "LP": "LP",
+    "LP": "Investor AUS",
+    "LP": "LPA",
+    "Manual": "Manual",
+    "MAN": "Manual",
+    "GUS": "GUS",
+    "NA": "N/A",
+    "N/A": "N/A",
+    "Streamline": "N/A",
 }
