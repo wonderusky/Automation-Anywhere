@@ -1,0 +1,13 @@
+{
+    "C/O": "C",
+    "Cash-out Refi": "C",
+    "Cashout" : "C",
+    "R/T" : "RT",
+    "Rate/Term" : "RT",
+    "RT" : "RT",
+    "No C/O" : "RT",
+    "NoC/O" : "RT",
+    "Purchase" : "Purchase",
+    "IRRL" : "Streamline",
+    "Streamline" : "Streamline"
+}

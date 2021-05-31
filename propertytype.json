@@ -1,0 +1,15 @@
+{
+    "Condo": "Condo",
+    "LR Condo": "Condo",
+    "HR Condo" : "Condo",
+    "HighRise Condo" : "Condo",
+    "RSFR" : "SFR",
+    "Condo-Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "DetachedCondo" : "Detached",
+    "4 units" : "Attached",
+    "PUD" : "PUD",
+    "Co-Op" : "Co-Op",
+    "MH" : "MFG",
+    "Manufactured" : "MFG"
+}
