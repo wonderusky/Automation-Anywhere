@@ -1,6 +1,6 @@
 { 
           
-   "LoanID": "Loan Number",
+   "Loan Number": "LoanID",
    "Name": "Borrower",
    "Property City": "City",
    "State": "State",
@@ -15,7 +15,7 @@
    "DTI": "Debt Ratio",
    "Purpose": "Purpose",
    "Property Type": "PropertyType",
-   "Borrower FICO": "Borrower FICO",
+   "FICO": "Borrower FICO",
    "Escrows": "EscrowWaiver",
    "Appraised Value": "Appraised Value",
    "Home Purchase Price": "Purchase Price",
