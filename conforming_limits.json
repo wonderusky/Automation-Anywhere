@@ -1,18 +1,18 @@
 {
   "1": {
-    "inHIAK": "$548,250",
-    "notinHIAK": "$822,375"
+    "inHIAK": "548250",
+    "notinHIAK": "822375"
   },
   "2": {
-    "inHIAK": "$702,000",
-    "notinHIAK": "$1,053,000"
+    "inHIAK": "702000",
+    "notinHIAK": "1053000"
   },
   "3": {
-    "inHIAK": "$848,500",
-    "notinHIAK": "$1,272,750"
+    "inHIAK": "848500",
+    "notinHIAK": "1272750"
   },
   "4": {
-    "inHIAK": "$1,054,500",
-    "notinHIAK": "$1,582,750"
+    "inHIAK": "1054500",
+    "notinHIAK": "1582750"
   }
 }
