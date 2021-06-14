@@ -1,5 +1,6 @@
 {
 "MCT" : {
+    "Loan Number" : "LoanID",
     "Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -28,6 +29,7 @@
     "PIW" : "PIW"
     },
     "Resitrader" : {
+    "Loan Number" : "LoanID",
     "Borrower Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -54,6 +56,7 @@
     "Fannie Mae SFC" : "PIW"
     },
     "Optimal_Blue" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -78,6 +81,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "Southern_Trust" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -103,6 +107,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "CUMA" : {
+    "LoanNumber" : "LoanID",
     "B1LastName" : "Borrower",
     "PropertyCity" : "City",
     "PropertyState" : "State",
@@ -129,6 +134,7 @@
     "PIW" : "PIW"
     },
     "Shadow" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -153,6 +159,7 @@
     "PIW" : "PIW"
     },
     "Eagle_Bank" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -176,6 +183,7 @@
     "PIW_Flag" : "PIW"
     },
     "Guaranteed_Rate" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -199,6 +207,7 @@
     "ULI" : "ULI"
     },
     "Am_Pac_Mtge" : {
+    "LoanID" : "LoanID",
     "PropCity" : "City",
     "PropState" : "State",
     "PropZip " : "Zip",
@@ -220,6 +229,7 @@
     "PIW Waiver" : "PIW"
     },
     "George_Mason" : {
+    "Loan" : "LoanID",
     "Borrower Last" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -232,7 +242,7 @@
     "CLTV" : "CLTV",
     "OCC Code" : "Occupancy",
     "DTI" : "Debt Ratio",
-    "Refi Type" : "Purpose",
+    "Refi Purpose" : "Purpose",
     "PROPERTY TYPE" : "PropertyType",
     "PRI CREDIT SCORE" : "Borrower FICO",
     "Impounds" : "EscrowWaiver",
@@ -240,10 +250,12 @@
     "Sales" : "Purchase Price",
     "Units" : "Units",
     "AUS" : "AUS",
+    "Refi Type" : "Notes",
     "Universal Loan ID" : "ULI",
     "Appraisal Waiver Indicator" : "PIW"
     },
     "WVB" : {
+    "cID" : "LoanID",
     "Borr_LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -268,6 +280,7 @@
     "PIW_Raw" : "PIW"
     },
     "First_State_Bank" : {
+    "Loan #" : "LoanID",
     "Last Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -294,6 +307,7 @@
     "Appraisal Waiver Indicator" : "PIW"
     },
     "Harbor_One_Mtge" : {
+    "sales number" : "LoanID",
     "Property  State" : "State",
     "Property  Zip" : "Zip",
     "Program" : "Product",
@@ -317,6 +331,7 @@
     "PIW" : "PIW"
     },
     "Bell_Bank_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -338,6 +353,7 @@
     "ULI" : "ULI"
     },
     "Megastar_Financial" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -361,6 +377,7 @@
     "PIW" : "PIW"
     },
     "Home_Services" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -383,6 +400,7 @@
     "PIW Executed" : "PIW"
     },
     "First_Security_WA" : {
+    "APPLICATION" : "LoanID",
     "Last_Name" : "Borrower",
     "State" : "State",
     "Zip_Code" : "Zip",
@@ -407,6 +425,7 @@
     "PIW" : "PIW"
     },
     "Bank_of_Utah" : {
+    "Loan" : "LoanID",
     "Borrower Last" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -432,6 +451,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "All_Western_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -456,6 +476,7 @@
     "PIW" : "PIW"
     },
     "Apex_Home_Loans" : {
+    "LoanNumber" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "SubjectPropertyCity" : "City",
     "SubjectPropertyState" : "State",
@@ -479,6 +500,7 @@
     "AppraisalWaiverIndicator" : "PIW"
     },
     "First_Colony_Mtge" : {
+    "Trans Details Loan #" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -504,6 +526,7 @@
     "ULI" : "ULI"
     },
     "The_Mortgage_Co" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -528,6 +551,7 @@
     "PIW" : "PIW"
     },
     "Waterstone_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -554,6 +578,7 @@
     "Appraisal Waiver Indicator" : "PIW"
     },
     "Service_First_Mtge" : {
+    "LoanID" : "LoanID",
     "LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -577,6 +602,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "First_Continental_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -601,6 +627,7 @@
     "ULI" : "ULI"
     },
     "HomeAmerican_Mtge" : {
+    "Loan" : "LoanID",
     "Borrower Last" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -626,6 +653,7 @@
     "Appraisal Waiver Indicator" : "PIW"
     },
     "New_America_Financial" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -649,6 +677,7 @@
     "ULI" : "ULI"
     },
     "Homeside_Financial" : {
+    "Loan" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -670,6 +699,7 @@
     "ULI" : "ULI"
     },
     "SecurityNational_Mtge" : {
+    "cID" : "LoanID",
     "LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -695,6 +725,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "InterLinc_Mtge" : {
+    "cID" : "LoanID",
     "City" : "City",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -717,6 +748,7 @@
     "ULI" : "ULI"
     },
     "Peoples_Bank" : {
+    "cID" : "LoanID",
     "PropState" : "State",
     "PropZip" : "Zip",
     "cCode" : "Product",
@@ -737,6 +769,7 @@
     "ULI" : "ULI"
     },
     "First_Commonwealth_Bank" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -760,6 +793,7 @@
     "ULI" : "ULI"
     },
     "Angel_Oak_HL" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -781,6 +815,7 @@
     "UWDecision" : "AUS"
     },
     "First_Heritage_Mtge" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -804,6 +839,7 @@
     "FanniePIW" : "PIW"
     },
     "Intercoastal_Mtge" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -827,6 +863,7 @@
     "FreddieACE" : "PIW"
     },
     "Mortgage_One" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -850,6 +887,7 @@
     "PIW" : "PIW"
     },
     "Reliance_First_Capital" : {
+    "Loan#" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -874,6 +912,7 @@
     "ULI" : "ULI"
     },
     "Supreme_Lending" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "State" : "State",
@@ -898,6 +937,7 @@
     "ULI" : "ULI"
     },
     "RealFi" : {
+    "Loan" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -919,6 +959,7 @@
     "ULI" : "ULI"
     },
     "Ruoff_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -941,6 +982,7 @@
     "ULI" : "ULI"
     },
     "Bremer_Bank" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -965,6 +1007,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "Town_Square_Mtge" : {
+    "Loan #" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "State" : "State",
@@ -989,6 +1032,7 @@
     "Universal Loan Id" : "ULI"
     },
     "Hamilton_Group_Funding" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "PropertyCity" : "City",
     "PropState" : "State",
@@ -1011,6 +1055,7 @@
     "UniversalLoanID" : "ULI"
     },
     "United_Mortgage" : {
+    "Loan #" : "LoanID",
     "Borrower Last Lane" : "Borrower",
     "State" : "State",
     "Sub Prop Zip Formatted" : "Zip",
@@ -1034,6 +1079,7 @@
     "ULI" : "ULI"
     },
     "CrossCountry_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -1058,6 +1104,7 @@
     "PIW" : "PIW"
     },
     "Direct_Mtge_Corp" : {
+    "LoanId" : "LoanID",
     "LastName" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -1082,6 +1129,7 @@
     "ULI" : "ULI"
     },
     "Assurance_Financial" : {
+    "LoanID" : "LoanID",
     "LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1107,6 +1155,7 @@
     "Appraisal Type" : "PIW"
     },
     "First_Home_Mtge" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1131,6 +1180,7 @@
     "Fannie Mae SFC" : "PIW"
     },
     "Evergreen_HL" : {
+    "Seller Loan#" : "LoanID",
     "BORROWER LAST NAME" : "Borrower",
     "Subject Property City" : "City",
     "State" : "State",
@@ -1155,6 +1205,7 @@
     "Freddie Mac Property Inspection Alternative" : "PIW"
     },
     "Primary_Residential_Mtge" : {
+    "Loan #" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -1180,6 +1231,7 @@
     "PIW_Indicator" : "PIW"
     },
     "Panorama" : {
+    "Loan Number" : "LoanID",
     "Borr Last Name" : "Borrower",
     "City" : "City",
     "Subj Prop State" : "State",
@@ -1203,6 +1255,7 @@
     "PIW Indicator" : "PIW"
     },
     "Cherry_Creek_Mtge" : {
+    "Seller loan" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -1229,6 +1282,7 @@
     "PIW" : "PIW"
     },
     "Trident_Mtge" : {
+    "LoanID" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -1252,6 +1306,7 @@
     "ULI" : "ULI"
     },
     "Tidewater_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -1276,6 +1331,7 @@
     "PIW" : "PIW"
     },
     "WesBanco_Bank" : {
+    "cID" : "LoanID",
     "PropState" : "State",
     "PropZip" : "Zip",
     "cCode" : "Product",
@@ -1299,6 +1355,7 @@
     "AppraisalWaiver_LP" : "PIW"
     },
     "K_Hovnanian_American_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -1321,6 +1378,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "TowneBank_Mtge" : {
+    "cID" : "LoanID",
     "LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1333,16 +1391,18 @@
     "CLTV" : "CLTV",
     "PropOcc" : "Occupancy",
     "DTI" : "Debt Ratio",
-    "RefiType" : "Purpose",
+    "RefiPurpose" : "Purpose",
     "PropType" : "PropertyType",
     "FICO" : "Borrower FICO",
     "Escrows" : "EscrowWaiver",
     "PropUnits" : "Units",
     "UWDecision" : "AUS",
     "LoanSubType" : "Notes",
+    "RefiType" : "RefiPurpose",
     "ULI" : "ULI"
     },
     "Ony_Glo" : {
+    "Loan ID" : "LoanID",
     "Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -1367,6 +1427,7 @@
     "ULI" : "ULI"
     },
     "OnQ_Financial" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1389,6 +1450,7 @@
     "PropInspecWaiver" : "PIW"
     },
     "Guaranteed_Rate_Affinity" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1412,6 +1474,7 @@
     "ULI" : "ULI"
     },
     "Washington_Trust_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -1436,6 +1499,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "Washington_Trust_Co_Westerly" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -1460,6 +1524,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "Congressional_Bank" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1482,6 +1547,7 @@
     "ULI" : "ULI"
     },
     "NBH_Bank" : {
+    "Loan #" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -1506,6 +1572,7 @@
     "ULI" : "ULI"
     },
     "Summit_Mtge_Bankers" : {
+    "Loan ID" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -1530,6 +1597,7 @@
     "ULI" : "ULI"
     },
     "Planet_Home_Lending" : {
+    "Client Loan Number" : "LoanID",
     "Property City" : "City",
     "Property State" : "State",
     "Property ZIP Code" : "Zip",
@@ -1552,6 +1620,7 @@
     "PIW Flag" : "PIW"
     },
     "Homesite_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -1576,6 +1645,7 @@
     "PIW" : "PIW"
     },
     "Integrity_Home_Mtge" : {
+    "Loan" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -1597,6 +1667,7 @@
     "PIW" : "PIW"
     },
     "AmCap_Mortgage" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -1620,6 +1691,7 @@
     "ULI" : "ULI"
     },
     "American_Security_Mtge" : {
+    "Loan Number" : "LoanID",
     "Last Name" : "Borrower",
     "SUBJECT PROPERTY CITY" : "City",
     "SUBJECT PROPERTY STATE" : "State",
@@ -1644,6 +1716,7 @@
     "PIW" : "PIW"
     },
     "First_Horizon" : {
+    "cID" : "LoanID",
     "BorLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1670,6 +1743,7 @@
     "PIW" : "PIW"
     },
     "Academy_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -1695,6 +1769,7 @@
     "PIW" : "PIW"
     },
     "AMSCO" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -1721,6 +1796,7 @@
     "PIW" : "PIW"
     },
     "Northern_Mortgage_Services" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -1747,6 +1823,7 @@
     "PIW" : "PIW"
     },
     "Paramount_Residential" : {
+    "cID" : "LoanID",
     "City" : "City",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -1771,6 +1848,7 @@
     "PIW" : "PIW"
     },
     "The_State_BT" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -1795,6 +1873,7 @@
     "PIW" : "PIW"
     },
     "NMSI" : {
+    "Loan Number" : "LoanID",
     "Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -1820,6 +1899,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "Watermark_HL" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -1844,6 +1924,7 @@
     "PIW_ACE" : "PIW"
     },
     "Residential_Wholesale_Mtge" : {
+    "LoanNumber" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "SubjectPropertyCity" : "City",
     "SubjectPropertyState" : "State",
@@ -1868,6 +1949,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "Contour_Mtge" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1892,6 +1974,7 @@
     "ULI" : "ULI"
     },
     "The_Federal_Savings_Bank" : {
+    "Lender Loan Number" : "LoanID",
     "Borr Last Name" : "Borrower",
     "Property City" : "City",
     "Subj Prop State" : "State",
@@ -1914,6 +1997,7 @@
     "Universal Loan Id" : "ULI"
     },
     "Parkside_Lending" : {
+    "Loan Number" : "LoanID",
     "City" : "City",
     "State" : "State",
     "Zip" : "Zip",
@@ -1936,6 +2020,7 @@
     "Appraisal Level" : "PIW"
     },
     "Compass_Mortgage" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropertyCity" : "City",
     "PropState" : "State",
@@ -1961,6 +2046,7 @@
     "PIW" : "PIW"
     },
     "Alcova_Mortgage" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -1986,6 +2072,7 @@
     "AppraisalFlag" : "PIW"
     },
     "LoanDepot.com" : {
+    "CompassLoanNum" : "LoanID",
     "Borrower1 Last Name" : "Borrower",
     "City" : "City",
     "Property State" : "State",
@@ -2008,6 +2095,7 @@
     "ULI" : "ULI"
     },
     "BNC_National_Bank" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -2032,6 +2120,7 @@
     "AppraisalWaiverIndicator" : "PIW"
     },
     "Opportunity_Bank_of_Montana" : {
+    "Loan Number" : "LoanID",
     "Borrower Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -2054,6 +2143,7 @@
     "ULI" : "ULI"
     },
     "Embrace" : {
+    "cID" : "LoanID",
     "PropCity" : "City",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -2078,6 +2168,7 @@
     "ULI" : "ULI"
     },
     "The_Home_Loan_Expert" : {
+    "Loan Number" : "LoanID",
     "Name" : "Borrower",
     "Property City" : "City",
     "State" : "State",
@@ -2102,6 +2193,7 @@
     "ULI" : "ULI"
     },
     "Thompson_Kane" : {
+    "Loan Number" : "LoanID",
     "Borrower Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -2126,6 +2218,7 @@
     "ULI" : "ULI"
     },
     "Platinum_Home_Mtge" : {
+    "LoanNumber" : "LoanID",
     "B1LastName" : "Borrower",
     "PropertyCity" : "City",
     "PropertyState" : "State",
@@ -2152,6 +2245,7 @@
     "PIW" : "PIW"
     },
     "Premier_Mtge_Resources" : {
+    "File Name" : "LoanID",
     "Bor 1 Last Name" : "Borrower",
     "Sub Prop City" : "City",
     "Sub Prop State" : "State",
@@ -2173,6 +2267,7 @@
     "ULI" : "ULI"
     },
     "Great_Plains" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -2198,6 +2293,7 @@
     "PIW" : "PIW"
     },
     "Freedom" : {
+    "LOANNUM" : "LoanID",
     "PROPSTCODE" : "State",
     "PROPZPCODE" : "Zip",
     "LOAN_TYPE" : "Product",
@@ -2217,6 +2313,7 @@
     "ULI" : "ULI"
     },
     "Cardinal_Financial" : {
+    "Loan Number" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -2241,6 +2338,7 @@
     "ULI" : "ULI"
     },
     "Union_Bank_Trust" : {
+    "LoanNumber" : "LoanID",
     "B1LastName" : "Borrower",
     "PropertyCity" : "City",
     "PropertyState" : "State",
@@ -2267,6 +2365,7 @@
     "PIW" : "PIW"
     },
     "The_Equitable_Mtge" : {
+    "Loan #" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "State" : "State",
@@ -2289,6 +2388,7 @@
     "Property Review" : "PIW"
     },
     "FBC_Mortgage" : {
+    "cID" : "LoanID",
     "BorrowerName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -2312,6 +2412,7 @@
     "PIW" : "PIW"
     },
     "BM_Real_Estate" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "City" : "City",
     "PropState" : "State",
@@ -2338,6 +2439,7 @@
     "PIW" : "PIW"
     },
     "First_BT" : {
+    "Loan" : "LoanID",
     "Borrower" : "Borrower",
     "PropCity" : "City",
     "STATE" : "State",
@@ -2362,6 +2464,7 @@
     "PIW" : "PIW"
     },
     "Sun_West" : {
+    "LOAN_NUMBER" : "LoanID",
     "PROP_CITY" : "City",
     "PROPERTY_STATE" : "State",
     "ZIP" : "Zip",
@@ -2384,6 +2487,7 @@
     "ULI" : "ULI"
     },
     "Total_Mtge" : {
+    "Loan #" : "LoanID",
     "City" : "City",
     "Property State" : "State",
     "Zip Code" : "Zip",
@@ -2405,6 +2509,7 @@
     "Universal Loan Identifier" : "ULI"
     },
     "Summit_Funding" : {
+    "LOAN #" : "LoanID",
     "BORROWER" : "Borrower",
     "City" : "City",
     "ST" : "State",
@@ -2425,6 +2530,7 @@
     "Universal Loan Id" : "ULI"
     },
     "Top_Flite" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -2449,6 +2555,7 @@
     "PIW" : "PIW"
     },
     "MLD_MoneyStore" : {
+    "cID" : "LoanID",
     "BorLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -2472,6 +2579,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "Alpine" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -2496,6 +2604,7 @@
     "PIW" : "PIW"
     },
     "Residential_Bancorp" : {
+    "File Name" : "LoanID",
     "Bor 1 Last Name" : "Borrower",
     "Sub Prop City" : "City",
     "Sub Prop State" : "State",
@@ -2519,6 +2628,7 @@
     "ULI" : "ULI"
     },
     "Southpoint_Bank" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property State" : "State",
     "Subject Property Zip" : "Zip",
@@ -2541,6 +2651,7 @@
     "PIW" : "PIW"
     },
     "Leader_Bank" : {
+    "Loan Number" : "LoanID",
     "State" : "State",
     "Subject Property Zip" : "Zip",
     "LOAN PROGRAM" : "Product",
@@ -2562,6 +2673,7 @@
     "PIW" : "PIW"
     },
     "Mason_Mac" : {
+    "LoanNumber" : "LoanID",
     "PropertyCity" : "City",
     "PropertyState" : "State",
     "PropertyZIP" : "Zip",
@@ -2584,6 +2696,7 @@
     "PIW" : "PIW"
     },
     "Capstone_Direct" : {
+    "Loan Number" : "LoanID",
     "Borr Last Name" : "Borrower",
     "Subj Prop City" : "City",
     "Subj Prop State" : "State",
@@ -2609,6 +2722,7 @@
     "Appraisal Waiver (Y/N)" : "PIW"
     },
     "First_Savings" : {
+    "Encompass Loan #" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -2631,6 +2745,7 @@
     "PIW" : "PIW"
     },
     "Vellum" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -2655,6 +2770,7 @@
     "AppraisalWaiverFlag" : "PIW"
     },
     "Impac" : {
+    "LOAN NUMBER" : "LoanID",
     "PROPERTY CITY" : "City",
     "PROPERTY STATE" : "State",
     "PROPERTY ZIP" : "Zip",
@@ -2677,6 +2793,7 @@
     "PROPERTY INSPECTION WAIVER" : "PIW"
     },
     "First_Ohio" : {
+    "Loan Number" : "LoanID",
     "Property City" : "City",
     "Property State" : "State",
     "Property Zip Code" : "Zip",
@@ -2703,6 +2820,7 @@
     "PIW" : "PIW"
     },
     "Banner_Bank" : {
+    "Loan" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -2725,6 +2843,7 @@
     "ULI" : "ULI"
     },
     "Synovus" : {
+    "Loan #" : "LoanID",
     "Borrower's Last Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -2748,6 +2867,7 @@
     "Appraisal Waiver" : "PIW"
     },
     "Churchill" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -2771,6 +2891,7 @@
     "Appraisal Waiver Indicator" : "PIW"
     },
     "Bay_Equity" : {
+    "cID" : "LoanID",
     "Borrower" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -2795,6 +2916,7 @@
     "ULI" : "ULI"
     },
     "New_Wave" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "City" : "City",
     "State" : "State",
@@ -2820,6 +2942,7 @@
     "PIW" : "PIW"
     },
     "NTFN" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -2847,6 +2970,7 @@
     "PIW" : "PIW"
     },
     "Ladera" : {
+    "Loan" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -2868,6 +2992,7 @@
     "AUS" : "AUS"
     },
     "Sovereign_Lending" : {
+    "cID" : "LoanID",
     "PropState" : "State",
     "PropZip" : "Zip",
     "cCode" : "Product",
@@ -2888,6 +3013,7 @@
     "PIW" : "PIW"
     },
     "McLean" : {
+    "cID" : "LoanID",
     "BorrowerName" : "Borrower",
     "Subject Prop City" : "City",
     "PropState1" : "State",
@@ -2911,6 +3037,7 @@
     "Property Inspection Waiver" : "PIW"
     },
     "ML_Mortgage" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -2934,6 +3061,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "First_2nd_Mtge_Co_NJ" : {
+    "cID" : "LoanID",
     "BorLastName" : "Borrower",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -2956,6 +3084,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "Prosperity_Home_Mtge" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -2978,6 +3107,7 @@
     "PIW Executed" : "PIW"
     },
     "Amerifirst" : {
+    "cID" : "LoanID",
     "BorLastName" : "Borrower",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -2999,6 +3129,7 @@
     "PIW" : "PIW"
     },
     "Jersey_Mortgage" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Property City" : "City",
     "Property State" : "State",
@@ -3025,6 +3156,7 @@
     "PIW" : "PIW"
     },
     "Golden_West" : {
+    "Loan Number" : "LoanID",
     "Borrower Last Name" : "Borrower",
     "Subject Property City" : "City",
     "Subject Property State" : "State",
@@ -3046,6 +3178,7 @@
     "PIW" : "PIW"
     },
     "NVR" : {
+    "cID" : "LoanID",
     "LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -3066,6 +3199,7 @@
     "AUFind" : "AUS"
     },
     "Absolute_Home" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -3091,6 +3225,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "Blue_Ridge" : {
+    "LoanID" : "LoanID",
     "Lastname" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -3114,6 +3249,7 @@
     "ULI" : "ULI"
     },
     "Neighbors_Bank" : {
+    "cID" : "LoanID",
     "BorrLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -3137,6 +3273,7 @@
     "Appraisal Waiver Indicator" : "PIW"
     },
     "Severn" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropState" : "State",
     "PropZip" : "Zip",
@@ -3159,6 +3296,7 @@
     "ULI" : "ULI"
     },
     "Coastal_Carolina" : {
+    "LoanID" : "LoanID",
     "LastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -3181,6 +3319,7 @@
     "ULI" : "ULI"
     },
     "Stockton" : {
+    "cID" : "LoanID",
     "BorrowerLastName" : "Borrower",
     "PropCity" : "City",
     "PropState" : "State",
@@ -3205,6 +3344,7 @@
     "AppraisalWaiver" : "PIW"
     },
     "DAS" : {
+    "Loan" : "LoanID",
     "Borrower" : "Borrower",
     "City" : "City",
     "STATE" : "State",
@@ -3226,6 +3366,7 @@
     "AUS" : "AUS"
     },
     "RMK_Majestic" : {
+    "LOAN NUMBER" : "LoanID",
     "BORROWER NAME" : "Borrower",
     "PROPERTY CITY" : "City",
     "PROPERTY STATE" : "State",
@@ -3246,4 +3387,5 @@
     "NUMBER OF UNITS" : "Units",
     "AU RESULT" : "AUS"
     }
-}    
+}
+    
