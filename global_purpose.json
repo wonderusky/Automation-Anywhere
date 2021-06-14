@@ -1,0 +1,919 @@
+{
+    "MCT" : {
+    "C/O" :"C",
+    "Cash-out Refi" :"C",
+    "Cashout" :"C",
+    "R/T" :"RT",
+    "Rate/Term" :"RT",
+    "RT" :"RT",
+    "No C/O" :"RT",
+    "NoC/O" :"RT",
+    "Purchase" :"Purchase",
+    "IRRL" :"Streamline",
+    "Streamline" :"Streamline"
+    },
+    "Resitrader" : {
+    "RFCO" :"C",
+    "Cash-Out Debt Consolidation" :"C",
+    "Cash-Out Other" :"C",
+    "REFI" :"RT",
+    "No Cash-Out Rate/Term" :"RT",
+    "PURCH" :"Purchase",
+    "No Cash-Out FHA Streamlined" :"Streamline",
+    "CONST-PERM" :"N/A"
+    },
+    "Optimal_Blue" : {
+    "Refi Cashout" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "Southern_Trust" : {
+    "Refi Cashout" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "CUMA" : {
+    "Refi(Cash-Out)" :"C",
+    "Refi(Rate-Term)" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Shadow" : {
+    "Refi Cashout" :"C",
+    "CASHOUT REFI" :"C",
+    "C/O" :"C",
+    "Cash-Out Refinance" :"C",
+    "CASHOUT" :"C",
+    "Refinance Cash-Out" :"C",
+    "Cash-Out Other" :"C",
+    "Refinance - Cash Out" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "RATE/TERM REFI" :"RT",
+    "RTREFI" :"RT",
+    "No Cash-Out Other" :"RT",
+    "RateTerm" :"RT",
+    "Refinance - Rate & Term" :"RT",
+    "Purchase" :"Purchase",
+    "Refinance-Streamlined" :"Streamline"
+    },
+    "Eagle_Bank" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "Guaranteed_Rate" : {
+    "Cash-Out Refinance" :"C",
+    "Cashout" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "Am_Pac_Mtge" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "George_Mason" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "WVB" : {
+    "Cash-Out Refinance" :"C",
+    "CashOutDebtConsolidation" :"C",
+    "CashOutOther" :"C",
+    "Cashout" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "ChangeInRateTerm" :"RT",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "First_State_Bank" : {
+    "REFINANCE CASH-OUT" :"C",
+    "Cash Out" :"C",
+    "Home Improvement, Cash-Out/Home Improvement" :"C",
+    "Debt consolidation refinance" :"C",
+    "REFINANCE - RATE/TERM" :"RT",
+    "Rate/Term" :"RT",
+    "Rate / Term refinance" :"RT",
+    "Limited cash out refinance" :"RT",
+    "PURCHASE" :"Purchase"
+    },
+    "Harbor_One_Mtge" : {
+    "(LP) Cash-Out Other" :"C",
+    "(FNMA) Cash-Out Other" :"C",
+    "(FNMA) Cash-Out Debt Consolidation" :"C",
+    "(FNMA) Cash-Out Home Improvement" :"C",
+    "Cash-Out Refinance" :"C",
+    "(LP) No Cash-Out Other" :"RT",
+    "(FNMA) Limited Cash-Out" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "(FNMA) No Cash-Out (Government Only)" :"RT",
+    "Rate Term" :"RT",
+    "Purchase" :"Purchase",
+    "(LP) No Cash-Out FHA Streamlined Refinance" :"Streamline"
+    },
+    "Bell_Bank_Mtge" : {
+    "Refi Cashout" :"C",
+    "Cash-Out Refi" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "No Cash-Out Refi" :"RT",
+    "Purchase" :"Purchase",
+    "Construction - Perm" :"N/A"
+    },
+    "Megastar_Financial" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Home_Services" : {
+    "Cash-Out Refinance" :"C",
+    "No Cash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_Security_WA" : {
+    "RC" :"C",
+    "R" :"RT",
+    "P" :"Purchase"
+    },
+    "Bank_of_Utah" : {
+    "Refinance - Cashout" :"C",
+    "REFINANCE-CASHOUT" :"C",
+    "REFINANCE- CASHOUT" :"C",
+    "CASH OUT" :"C",
+    "Refinance - Rate/Term" :"RT",
+    "RATE TERM" :"RT",
+    "REFINANCE- RATE/TERM" :"RT",
+    "REFINANCE" :"RT",
+    "Purch" :"Purchase",
+    "PURCHASE" :"Purchase",
+    "IRRRL" :"Streamline"
+    },
+    "All_Western_Mtge" : {
+    "Refi Cashout" :"C",
+    "Cash-Out Refinance" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline",
+    "USDA Streamline Refi" :"Streamline",
+    "Streamline Refinance" :"Streamline"
+    },
+    "Apex_Home_Loans" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_Colony_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "The_Mortgage_Co" : {
+    "Cash-Out Other" :"C",
+    "Cash-Out Debt Consolidation" :"C",
+    "Cash-Out Home Improvement" :"C",
+    "No Cash-Out Other" :"RT",
+    "Limited Cash-Out" :"RT",
+    "No Cash-Out" :"RT",
+    "Rate-Term" :"RT",
+    "Rate Term" :"RT",
+    "IRRRL" :"RT",
+    "Purchase" :"Purchase",
+    "Streamline Refi" :"Streamline"
+    },
+    "Waterstone_Mtge" : {
+    "Refinance - Cashout" :"C",
+    "Refinance - Rate/Term" :"RT",
+    "Purch" :"Purchase"
+    },
+    "Service_First_Mtge" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase",
+    "VA IRRRL" :"Streamline"
+    },
+    "First_Continental_Mtge" : {
+    "REFINANCE CASH-OUT" :"C",
+    "CASH OUT" :"C",
+    "Cash-Out Refinance" :"C",
+    "REFINANCE - RATE/TERM" :"RT",
+    "REFINANCE RATE TERM" :"RT",
+    "Refinancing" :"RT",
+    "RATE/TERM" :"RT",
+    "RATE/TERM REFI" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Home Purchase" :"Purchase",
+    "PURCHASE" :"Purchase",
+    "CONSTRUCTION PERM." :"N/A"
+    },
+    "HomeAmerican_Mtge" : {
+    "Cash-Out Refinance - " :"C",
+    "No Cash-Out Refinance - " :"RT",
+    "Purch" :"Purchase"
+    },
+    "New_America_Financial" : {
+    "Cash-Out Refinance" :"C",
+    "CASHOUT" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "RTREFI" :"RT",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "PURCH" :"Purchase"
+    },
+    "Homeside_Financial" : {
+    "Refi Cashout" :"C",
+    "CASHOUT" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "RTREFI" :"RT",
+    "Purchase" :"Purchase",
+    "PURCH" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "SecurityNational_Mtge" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "InterLinc_Mtge" : {
+    "CashOut" :"C",
+    "Cash-Out Refinan" :"C",
+    "RateTerm" :"RT",
+    "NoCash-Out Refin" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Peoples_Bank" : {
+    "CashOut" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "First_Commonwealth_Bank" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Angel_Oak_HL" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "First_Heritage_Mtge" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "Intercoastal_Mtge" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "Mortgage_One" : {
+    "Refinance Cash-Out" :"C",
+    "Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Reliance_First_Capital" : {
+    "REFINANCE-CASHOUT" :"C",
+    "REFINANCE-RATEANDTERM" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Supreme_Lending" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "RealFi" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "Ruoff_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "RFCO" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "REFI" :"RT",
+    "Purchase" :"Purchase",
+    "PURCH" :"Purchase"
+    },
+    "Bremer_Bank" : {
+    "Refi Cashout" :"C",
+    "CashOut Refi" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "Town_Square_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Hamilton_Group_Funding" : {
+    "Cashout" :"C",
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "RateTerm Refi" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "United_Mortgage" : {
+    "Cash Out" :"C",
+    "No Cash Out" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "CrossCountry_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "Cash-Out Other" :"C",
+    "No Cash-Out Other" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Direct_Mtge_Corp" : {
+    "Cash Out" :"C",
+    "Cash Out " :"C",
+    "Rate and Term" :"RT",
+    "Purchase" :"Purchase",
+    "Streamline" :"Streamline"
+    },
+    "Assurance_Financial" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase",
+    "CONSTR" :"N/A"
+    },
+    "First_Home_Mtge" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Evergreen_HL" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "ConstructionToPermanent" :"N/A"
+    },
+    "Primary_Residential_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Panorama" : {
+    "Refinance Cash-out" :"C",
+    "Home Improvement" :"C",
+    "Cash-Out Refinance" :"C",
+    "Cash-Out Refi" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "No" :"RT",
+    "Refinancing" :"RT",
+    "Purchase" :"Purchase",
+    "Home Purchase" :"Purchase",
+    "Non-Cash-Out FHA Streamlined" :"Streamline"
+    },
+    "Cherry_Creek_Mtge" : {
+    "Cash Out Refi" :"C",
+    "Cash Out Refinance" :"C",
+    "Rate Term Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Trident_Mtge" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase",
+    "Purchase" :"Purchase"
+    },
+    "Tidewater_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Rate/Term" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "WesBanco_Bank" : {
+    "CashOut" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "K_Hovnanian_American_Mtge" : {
+    "Purchase" :"Purchase"
+    },
+    "TowneBank_Mtge" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "Ony_Glo" : {
+    "C/O" :"C",
+    "R/T" :"RT",
+    "Purchase" :"Purchase",
+    "Streamlined" :"Streamline"
+    },
+    "OnQ_Financial" : {
+    "Cash-Out Refinance" :"C",
+    "CashOut" :"C",
+    "Cashout" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "NotCashOut" :"RT",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "Washington_Trust_Mtge" : {
+    "Refi Cashout" :"C",
+    "Cash-Out Refinance" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "Washington_Trust_Co_Westerly" : {
+    "Refi Cashout" :"C",
+    "Cash-Out Refinance" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "Congressional_Bank" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "NBH_Bank" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Summit_Mtge_Bankers" : {
+    "Cash-Out Refinance" :"C",
+    " Cash-Out Refinance " :"C",
+    "NoCash-Out Refinance" :"RT",
+    "  NoCash-Out Refinance  " :"RT",
+    "Purchase" :"Purchase",
+    " Purchase " :"Purchase"
+    },
+    "Planet_Home_Lending" : {
+    "Cash-Out Refinance" :"C",
+    "Refinance CO" :"C",
+    "Refinance CODEBT" :"C",
+    "Refinance COHOME" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Refinance LIMITED" :"RT",
+    "Refinance NCO" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Homesite_Mtge" : {
+    "Refi-Cashout" :"C",
+    "Cash-Out Other" :"C",
+    "Limited Cash-Out" :"C",
+    "Refinance Cash-Out" :"C",
+    "Refi-No Cashout" :"RT",
+    "No Cash-Out Other" :"RT",
+    "No Cash-Out" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Integrity_Home_Mtge" : {
+    "Cash-Out Refi" :"C",
+    "CASHOUT" :"C",
+    "No Cash-Out Refi" :"RT",
+    "RTREFI" :"RT",
+    "Purchase" :"Purchase",
+    "PURCH" :"Purchase"
+    },
+    "AmCap_Mortgage" : {
+    "Refi Cashout" :"C",
+    "CASHOUT" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "RTREFI" :"RT",
+    "Purchase" :"Purchase",
+    "PURCH" :"Purchase"
+    },
+    "American_Security_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Academy_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "Cashout" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "NoCashOut" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "AMSCO" : {
+    "Cash-Out Other" :"C",
+    "Cash-Out Home Improvement" :"C",
+    "Cash-Out Debt Consolidation" :"C",
+    "Cash - Out Other" :"C",
+    "No Cash-Out Other" :"RT",
+    "No Cash-Out Rate/Term" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Northern_Mortgage_Services" : {
+    "Refinance Cash-Out" :"C",
+    "No Cash-Out Other" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Paramount_Residential" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "The_State_BT" : {
+    "Cash-Out Debt Consolidation" :"C",
+    "Refinance Cash-Out" :"C",
+    " No Cash-Out Other " :"RT",
+    "No Cash-Out Other" :"RT",
+    " Purchase " :"Purchase",
+    "Purchase" :"Purchase"
+    },
+    "NMSI" : {
+    "C/O" :"C",
+    "R/T" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Watermark_HL" : {
+    "Refi Cashout" :"C",
+    "Cash-Out Refinance" :"C",
+    "Refi Rate-Term/Limited C.O." :"RT",
+    "VA Rate Reduction" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "FHA Streamline Refi" :"Streamline"
+    },
+    "Residential_Wholesale_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Contour_Mtge" : {
+    "C/O" :"C",
+    "Cash-Out Refinance" :"C",
+    "R/T" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "The_Federal_Savings_Bank" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Parkside_Lending" : {
+    "Cash-Out Refinance" :"C",
+    "Cash Out Refinance" :"C",
+    "Rate and Term Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Compass_Mortgage" : {
+    "Cashout" :"C",
+    "Rate Term Refi" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Alcova_Mortgage" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Highlands" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "LoanDepot.com" : {
+    "Cash out Refinance" :"C",
+    "Rate/Term Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "BNC_National_Bank" : {
+    "CashOut" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Opportunity_Bank_of_Montana" : {
+    "Cash-out refinancing" :"C",
+    "Cash-Out Refi" :"C",
+    "Refinancing" :"RT",
+    "No Cash-Out Refi" :"RT",
+    "Home Purchase" :"Purchase",
+    "Purchase" :"Purchase"
+    },
+    "Embrace" : {
+    "CashOut" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "The_Home_Loan_Expert" : {
+    "C/O" :"C",
+    "Cash-out Refi" :"C",
+    "R/T" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Thompson_Kane" : {
+    "Cash-Out Refi" :"C",
+    "Cash-Out Refinance" :"C",
+    "No Cash-Out Refi" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Platinum_Home_Mtge" : {
+    "Refi(Cash-Out)" :"C",
+    "Refi(Rate-Term)" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Premier_Mtge_Resources" : {
+    "Cash-Out/Other" :"C",
+    "Limited Cash-Out" :"RT",
+    "No Cash-Out/Other" :"RT",
+    "Change In Rate/Term" :"RT",
+    "Purchase" :"Purchase",
+    "Purchased" :"Purchase",
+    "Streamlined Refinance" :"Streamline",
+    "Streamline Refinance" :"Streamline"
+    },
+    "Great_Plains" : {
+    "Refinance Cash-Out" :"C",
+    "Cash-Out Other" :"C",
+    "No Cash-Out Other" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Freedom" : {
+    "CashOutRefi" :"C",
+    "Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Cardinal_Financial" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "N" :"Purchase"
+    },
+    "Union_Bank_Trust" : {
+    "Refi(Cash-Out)" :"C",
+    "Refi(Rate-Term)" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "The_Equitable_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "FBC_Mortgage" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase",
+    "Construction" :"N/A"
+    },
+    "BM_Real_Estate" : {
+    "CashOut" :"C",
+    "Refinance (Cash Out)" :"C",
+    "RateTerm" :"RT",
+    "Refinance (Rate & Term)" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_BT" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "Sun_West" : {
+    "CASH OUT REFINANCE" :"C",
+    "REFI-REHAB" :"C",
+    "LIMITED CASH OUT REFINANCE" :"RT",
+    "RATE&TERM REFI/NO CASH OUT REFINANCE" :"RT",
+    "PURCHASE" :"Purchase",
+    "STREAMLINE REFINANCE WITHOUT APPRAISAL" :"Streamline"
+    },
+    "Total_Mtge" : {
+    "CashOutOther" :"C",
+    "CashOutDebtConsolidation" :"C",
+    "CashOutHomeImprovement" :"C",
+    "Cash-Out Refinance" :"C",
+    "CashOutLimited" :"RT",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Summit_Funding" : {
+    "CASHOUT" :"C",
+    "REFINANCE" :"RT",
+    "PURCHASE" :"Purchase"
+    },
+    "Top_Flite" : {
+    "Cash-Out Other" :"C",
+    "Cash Out" :"C",
+    "No Cash-Out Other" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "MLD_Moneystore" : {
+    "CashOut" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Alpine" : {
+    "Cash-Out Other" :"C",
+    "No Cash-Out Other" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Residential_Bancorp" : {
+    "Cash-Out/Debt Consolidation" :"C",
+    "Cash-Out/Home Improvement" :"C",
+    "Cash-Out/Other" :"C",
+    "Limited Cash-Out" :"RT",
+    "No Cash-Out/Other" :"RT",
+    "Change In Rate/Term" :"RT",
+    "Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "No Cash-Out/VA Streamlined Refinance" :"Streamline",
+    "No Cash-Out/Streamlined Refinance" :"Streamline",
+    "No Cash-Out/FHA Streamlined Refinance" :"Streamline"
+    },
+    "Southpoint_Bank" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Leader_Bank" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Mason_Mac" : {
+    "Refi(Cash-Out)" :"C",
+    "Refi(Rate-Term)" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Capstone_Direct" : {
+    "Cash-Out/Debt Consolidation" :"C",
+    "Cash-Out/Other" :"C",
+    "Limited Cash-Out Rate/Term" :"RT",
+    "No Cash-Out Rate/Term" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_Savings" : {
+    "RC" :"C",
+    "RR" :"RT",
+    "P" :"Purchase"
+    },
+    "Vellum" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Impac" : {
+    "Y" :"C",
+    "N" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_Ohio" : {
+    "Cash-Out Other" :"C",
+    "Cash-Out Debt Consolidation" :"C",
+    "No Cash-Out Other" :"RT",
+    "No Cash-Out Rate/Term" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Banner_Bank" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "Synovus" : {
+    "Cash Out Refinance" :"C",
+    "Rate/Term Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "Streamline Refi" :"Streamline"
+    },
+    "Churchill" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Bay_Equity" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "New_Wave" : {
+    "Cash Out" :"C",
+    "R(Cash out) " :"C",
+    "R/T" :"RT",
+    "R" :"RT",
+    "P" :"Purchase"
+    },
+    "NTFN" : {
+    "Cash-Out Other" :"C",
+    "No Cash-Out Other" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Ladera" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "Sovereign_Lending" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "McLean" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "ML_Mortgage" : {
+    "CASHOUT" :"C",
+    "Cashout" :"C",
+    "RTREFI" :"RT",
+    "Rateterm" :"RT",
+    "PURCH" :"Purchase",
+    "N" :"Purchase"
+    },
+    "Amerifirst" : {
+    "Cash-Out Refinance" :"C",
+    "NoCash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Prosperity_Home_Mtge" : {
+    "Cash-Out Refinance" :"C",
+    "No Cash-Out Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Jersey_Mortgage" : {
+    "Cash-Out Other" :"C",
+    "Cash-Out " :"C",
+    "No Cash-Out Other" :"RT",
+    "IRRRL" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "First_Horizon" : {
+    },
+    "Golden_West" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "NVR" : {
+    "Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Absolute_Home" : {
+    "Cashout" :"C",
+    "RateTerm" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Blue_Ridge" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "Neighbors_Bank" : {
+    "Refinance - Cashout" :"C",
+    "Refinance - Rate/Term" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "Severn" : {
+    "Cashout" :"C",
+    "CashOutLimited" :"C",
+    "RateTerm" :"RT",
+    "N" :"Purchase"
+    },
+    "Coastal_Carolina" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "Stockton" : {
+    "Cashout" :"C",
+    "RateTerm Refinance" :"RT",
+    "Purchase" :"Purchase"
+    },
+    "DAS_Acquisition_Co" : {
+    "CASHOUT" :"C",
+    "RTREFI" :"RT",
+    "PURCH" :"Purchase"
+    },
+    "RMK_Majestic" : {
+    "Cash-Out Refinance" :"C",
+    "Rate/Term Refinance" :"RT",
+    "Purchase" :"Purchase",
+    "Streamline(No Appraisal)" :"Streamline"
+    } 
+}
