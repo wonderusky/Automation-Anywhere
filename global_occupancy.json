@@ -1,0 +1,771 @@
+{
+    "MCT" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2nd" : "Second"
+    },
+    "Resitrader" : {
+    "OOC" : "OO",
+    "NOC" : "NOO",
+    "2ND" : "Second"
+    },
+    "Optimal_Blue" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Southern_Trust" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "CUMA" : {
+    "Primary (OO)" : "OO",
+    "Investment (NOO)" : "NOO",
+    "Secondary (OO)" : "Second"
+    },
+    "Shadow" : {
+    "Primary" : "OO",
+    "OO" : "OO",
+    "Primary Residence" : "OO",
+    "INVESTOR" : "NOO",
+    "Investment Property" : "NOO",
+    "NOO" : "NOO",
+    "Second Home" : "Second",
+    "2nd" : "Second"
+    },
+    "Eagle_Bank" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Guaranteed_Rate" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Am_Pac_Mtge" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "George_Mason" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Secondary" : "Second",
+    "Second" : "Second"
+    },
+    "WVB" : {
+    "PrimaryResidence" : "OO",
+    "Primary" : "OO",
+    "Investor" : "NOO",
+    "Investment" : "NOO",
+    "SecondHome" : "Second",
+    "Second" : "Second"
+    },
+    "First_State_Bank" : {
+    "PRIMARY RESIDENCE" : "OO",
+    "Owner" : "OO",
+    "INVESTMENT PROPERTY" : "NOO",
+    "Investment" : "NOO",
+    "SECOND HOME" : "Second"
+    },
+    "Harbor_One_Mtge" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2nd" : "Second"
+    },
+    "Bell_Bank_Mtge" : {
+    "Primary Residence" : "OO",
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Investment" : "NOO",
+    "Secondary" : "Second",
+    "Second" : "Second"
+    },
+    "Megastar_Financial" : {
+    "Primary" : "OO",
+    "INVESTMENT" : "NOO",
+    "Second" : "Second"
+    },
+    "Home_Services" : {
+    "OWNER" : "OO",
+    "PrimaryResidence" : "OO",
+    "INVESTOR" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "First_Security_WA" : {
+    "PR" : "OO"
+    },
+    "Bank_of_Utah" : {
+    "OWN" : "OO",
+    "PRIMARY RESIDENCE" : "OO",
+    "NOO" : "NOO",
+    "2ND" : "Second"
+    },
+    "All_Western_Mtge" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Apex_Home_Loans" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "First_Colony_Mtge" : {
+    "OwnerOccupied" : "OO",
+    "NonOwnerOccupied" : "NOO",
+    "SecondHome" : "Second",
+    "Second Home" : "Second"
+    },
+    "The_Mortgage_Co" : {
+    "Primary" : "OO",
+    " Primary " : "OO",
+    "Investment Property" : "NOO",
+    " Investment Property " : "NOO",
+    "Second Home" : "Second"
+    },
+    "Waterstone_Mtge" : {
+    "OWN" : "OO",
+    "NOO" : "NOO",
+    "2ND" : "Second"
+    },
+    "Service_First_Mtge" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "First_Continental_Mtge" : {
+    "Primary" : "OO",
+    "PRIMARY RESIDENCE" : "OO",
+    "PrimaryResidence" : "OO",
+    "INVESTMENT PROPERTY" : "NOO",
+    "Investor" : "NOO",
+    "SECOND HOME" : "Second",
+    "SecondHome" : "Second"
+    },
+    "HomeAmerican_Mtge" : {
+    "OWN" : "OO",
+    "NOO" : "NOO",
+    "2ND" : "Second"
+    },
+    "New_America_Financial" : {
+    "Primary" : "OO",
+    "OWNER" : "OO",
+    "Investor" : "NOO",
+    "Investment" : "NOO",
+    "Secondary" : "Second",
+    "SECOND" : "Second"
+    },
+    "Homeside_Financial" : {
+    "OWNER" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment Property" : "NOO",
+    "Investor" : "NOO",
+    "INVESTOR" : "NOO",
+    "Second Home" : "Second",
+    "SECOND" : "Second"
+    },
+    "SecurityNational_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "InterLinc_Mtge" : {
+    "Primary" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second",
+    "SecondHome" : "Second"
+    },
+    "Peoples_Bank" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "First_Commonwealth_Bank" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Angel_Oak_HL" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "First_Heritage_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Intercoastal_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Mortgage_One" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Reliance_First_Capital" : {
+    "PRIMARY RES." : "OO",
+    "NON OWNER OCCUPIED" : "NOO",
+    "SECOND HOME" : "Second"
+    },
+    "Supreme_Lending" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "RealFi" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Ruoff_Mtge" : {
+    "OOC" : "OO",
+    "NOC" : "NOO",
+    "2ND" : "Second"
+    },
+    "Bremer_Bank" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Town_Square_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Hamilton_Group_Funding" : {
+    "PrimaryResidence" : "OO",
+    "Primary" : "OO",
+    "Investor" : "NOO",
+    "Investment" : "NOO",
+    "SecondHome" : "Second",
+    "Second" : "Second"
+    },
+    "United_Mortgage" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO"
+    },
+    "CrossCountry_Mtge" : {
+    "Primary" : "OO",
+    "Investor" : "NOO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Direct_Mtge_Corp" : {
+    "Primary Residence" : "OO",
+    "Owner Occupied" : "OO",
+    "Investment" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Assurance_Financial" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "First_Home_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Evergreen_HL" : {
+    "OwnerOccupied" : "OO",
+    "PrimaryResidence" : "OO",
+    "NonOwnerOccupied" : "NOO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Primary_Residential_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Panorama" : {
+    "Primary Residence" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment" : "NOO",
+    "Investor" : "NOO",
+    "Secondary Residence" : "Second",
+    "SecondHome" : "Second"
+    },
+    "Cherry_Creek_Mtge" : {
+    "Primary Residence" : "OO",
+    "Investment" : "NOO",
+    "Secondary Residence" : "Second"
+    },
+    "Trident_Mtge" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Tidewater_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "WesBanco_Bank" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Secondary" : "Second"
+    },
+    "K_Hovnanian_American_Mtge" : {
+    "Owner Occupied" : "OO",
+    "Investment" : "NOO",
+    "Second Home" : "Second"
+    },
+    "TowneBank_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Ony_Glo" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2nd" : "Second",
+    "Second home" : "Second"
+    },
+    "OnQ_Financial" : {
+    "PrimaryResidence" : "OO",
+    "OO" : "OO",
+    "Primary" : "OO",
+    "Investor" : "NOO",
+    "INV" : "NOO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Washington_Trust_Mtge" : {
+    "Primary Residence" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment Property" : "NOO",
+    "Investor" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Washington_Trust_Co_Westerly         " : {
+    "Primary Residence" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment Property" : "NOO",
+    "Investor" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Congressional_Bank" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "NBH_Bank" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Summit_Mtge_Bankers" : {
+    " PrimaryResidence " : "OO",
+    "PrimaryResidence" : "OO",
+    " Investor " : "NOO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second",
+    " SecondHome " : "Second"
+    },
+    "Planet_Home_Lending" : {
+    "Primary Residence" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment" : "NOO",
+    "Investor" : "NOO",
+    "Second Home" : "Second",
+    "SecondHome" : "Second"
+    },
+    "Homesite_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second",
+    "Second  Home" : "Second"
+    },
+    "Integrity_Home_Mtge" : {
+    "Primary" : "OO",
+    "OWNER" : "OO",
+    "Investment" : "NOO",
+    "INVESTOR" : "NOO",
+    "Secondary" : "Second",
+    "SECOND" : "Second"
+    },
+    "AmCap_Mortgage" : {
+    "Primary Residence" : "OO",
+    "OWNER" : "OO",
+    "Investment Property" : "NOO",
+    "INVESTOR" : "NOO",
+    "Second Home" : "Second",
+    "SECOND" : "Second"
+    },
+    "American_Security_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Academy_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Owner Occupied" : "OO",
+    "Investor" : "NOO",
+    "Second Home" : "Second"
+    },
+    "AMSCO" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Investment" : "NOO",
+    "Second Home" : "Second",
+    "Secondary" : "Second"
+    },
+    "Northern_Mortgage_Services" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Paramount_Residential" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "The_State_BT" : {
+    " Primary " : "OO",
+    "Primary" : "OO",
+    "Investment Property" : "NOO"
+    },
+    "NMSI" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2nd" : "Second"
+    },
+    "Watermark_HL" : {
+    "Primary Residence" : "OO",
+    "PrimaryResidence" : "OO",
+    "Investment Property" : "NOO",
+    "Investor" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Residential_Wholesale_Mtge" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "SH" : "Second",
+    "2ND" : "Second"
+    },
+    "Contour_Mtge" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "The_Federal_Savings_Bank" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Parkside_Lending" : {
+    "Primary" : "OO",
+    "Primary Residence" : "OO",
+    "Investment" : "NOO",
+    "Secondary" : "Second"
+    },
+    "Compass_Mortgage" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Alcova_Mortgage" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Highlands" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "LoanDepot.com" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second Home" : "Second"
+    },
+    "BNC_National_Bank" : {
+    "PRIMARY" : "OO",
+    "Investment" : "NOO",
+    "SECONDARY" : "Second",
+    "Second" : "Second"
+    },
+    "Opportunity_Bank_of_Montana" : {
+    "OwnerOccupied" : "OO",
+    "Primary" : "OO"
+    },
+    "Embrace" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "The_Home_Loan_Expert" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2nd" : "Second"
+    },
+    "Thompson_Kane" : {
+    "OwnerOccupied" : "OO",
+    "Owner Occupied" : "OO",
+    "Non-Owner Occupied" : "NOO",
+    "NonOwnerOccupied" : "NOO",
+    "Second Home" : "Second",
+    "Second" : "Second"
+    },
+    "Platinum_Home_Mtge" : {
+    "Primary (OO)" : "OO",
+    "Investment (NOO)" : "NOO",
+    "Secondary (OO)" : "Second"
+    },
+    "Premier_Mtge_Resources" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Secondary Residence" : "Second"
+    },
+    "Great_Plains" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Freedom" : {
+    "Primary Residence" : "OO",
+    "Second Home" : "Second"
+    },
+    "Cardinal_Financial" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Investor" : "NOO",
+    "Second" : "Second"
+    },
+    "Union_Bank_Trust" : {
+    "Primary (OO)" : "OO",
+    "Investment (NOO)" : "NOO",
+    "Secondary (OO)" : "Second"
+    },
+    "The_Equitable_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "FBC_Mortgage" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "BM_Real_Estate" : {
+    "Primary" : "OO",
+    "Owner Occupied" : "OO",
+    "Investment Property" : "NOO",
+    "Investment" : "NOO",
+    "Second Home" : "Second",
+    "Second" : "Second"
+    },
+    "First_BT" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Sun_West" : {
+    "Primary Property" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Total_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Summit_Funding" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2ND" : "Second"
+    },
+    "Top_Flite" : {
+    "Primary" : "OO",
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "MLD_Moneystore" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Secondary" : "Second"
+    },
+    "Alpine" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Residential_Bancorp" : {
+    "Primary Residence" : "OO",
+    "Investment Property" : "NOO",
+    "Secondary Residence" : "Second"
+    },
+    "Southpoint_Bank" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second",
+    "Second" : "Second"
+    },
+    "Leader_Bank" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Mason_Mac" : {
+    "Primary (OO)" : "OO",
+    "Investment (NOO)" : "NOO",
+    "Secondary (OO)" : "Second"
+    },
+    "Capstone_Direct" : {
+    "Primary Residence" : "OO",
+    "Investment" : "NOO",
+    " " : "NOO",
+    "Secondary Residence" : "Second"
+    },
+    "First_Savings" : {
+    "OO" : "OO",
+    "IN" : "NOO",
+    "SH" : "Second"
+    },
+    "Vellum" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Impac" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2ND" : "Second"
+    },
+    "First_Ohio" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Banner_Bank" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Synovus" : {
+    "Owner Occupied" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Churchill" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "Bay_Equity" : {
+    "Primary" : "OO"
+    },
+    "New_Wave" : {
+    "OO" : "OO",
+    "NOO" : "NOO",
+    "2ND" : "Second"
+    },
+    "NTFN" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "Ladera" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Sovereign_Lending" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "McLean" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "ML_Mortgage" : {
+    "Primary" : "OO",
+    "INVESTOR" : "NOO",
+    "Investment" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Amerifirst" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Prosperity_Home_Mtge" : {
+    "PrimaryResidence" : "OO",
+    "Investor" : "NOO",
+    "SecondHome" : "Second"
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Secondary" : "Second"
+    },
+    "Jersey_Mortgage" : {
+    "Primary" : "OO",
+    "Investment Property" : "NOO",
+    "Second Home" : "Second"
+    },
+    "First_Horizon" : {
+    },
+    "Golden_West" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "NVR" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Absolute_Home" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Secondary" : "Second"
+    },
+    "Blue_Ridge" : {
+    "OWNER" : "OO"
+    },
+    "Neighbors_Bank" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Severn" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "Coastal_Carolina" : {
+    "OWNER" : "OO",
+    "INVESTOR" : "NOO",
+    "SECOND" : "Second"
+    },
+    "Stockton" : {
+    "Primary" : "OO",
+    "Investment" : "NOO",
+    "Second" : "Second"
+    },
+    "DAS_Acquisition_Co" : {
+    "OWNER" : "OO"
+    },
+    "RMK_Majestic" : {
+    "Owner Occupied" : "OO",
+    "Investment" : "NOO"
+    }
+}
