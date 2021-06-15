@@ -1,0 +1,1690 @@
+{
+    "76" : {
+    "Seller": "Advisors Mortgage Group",
+    "Mappedto": "Advisors_Mortgage_Group",
+    "Seller ID": "211",
+    "Channel": "30204",
+    "Third Party": "MCT"
+    },
+    "Alerus Mortgage (Optimal Blue)" : {
+    "Seller": "Alerus Mtg",
+    "Mappedto": "Alerus_Mtg",
+    "Seller ID": "200",
+    "Channel": "12379",
+    "Third Party": "Resitrader"
+    },
+    "392" : {
+    "Seller": "Alpha Mortgage Corporation",
+    "Mappedto": "Alpha_Mtge",
+    "Seller ID": "210",
+    "Channel": "10102",
+    "Third Party": "MCT"
+    },
+    "399" : {
+    "Seller": "Altitude Financial Corporation",
+    "Mappedto": "Altitude",
+    "Seller ID": "210",
+    "Channel": "30417",
+    "Third Party": "MCT"
+    },
+    "American National Bank (Optimal Blue)" : {
+    "Seller": "American National Bank",
+    "Mappedto": "Am_National_Bank",
+    "Seller ID": "210",
+    "Channel": "23634",
+    "Third Party": "Resitrader"
+    },
+    "110" : {
+    "Seller": "American Bancshares Mortgage",
+    "Mappedto": "American_Bancshares_Mtge",
+    "Seller ID": "210",
+    "Channel": "10156",
+    "Third Party": "MCT"
+    },
+    "American Federal Mortgage Corp. (Optimal Blue)" : {
+    "Seller": "American Federal Mortgage Corp",
+    "Mappedto": "American_Federal_Mtge",
+    "Seller ID": "211",
+    "Channel": "12927",
+    "Third Party": "Resitrader"
+    },
+    "American Financing Corporation" : {
+    "Seller": "American Financing Corp",
+    "Mappedto": "American_Financing_Corp",
+    "Seller ID": "212",
+    "Channel": "12179",
+    "Third Party": "Resitrader"
+    },
+    "American Portfolio Mortgage Corporation (Optimal Blue)" : {
+    "Seller": "American Portfolio Mortgage",
+    "Mappedto": "American_Portfolio_Mtge",
+    "Seller ID": "212",
+    "Channel": "12906",
+    "Third Party": "Resitrader"
+    },
+    "250" : {
+    "Seller": "American Residential Corp dba AmRes Corp dba AmRes Lending",
+    "Mappedto": "American_Residential_Lending",
+    "Seller ID": "210",
+    "Channel": "30114",
+    "Third Party": "MCT"
+    },
+    "18" : {
+    "Seller": "Ameris Bank",
+    "Mappedto": "Ameris_Bank",
+    "Seller ID": "210",
+    "Channel": "12227",
+    "Third Party": "MCT"
+    },
+    "450" : {
+    "Seller": "Anderson Financial Group, Inc., The",
+    "Mappedto": "Anderson_Financial",
+    "Seller ID": "200",
+    "Channel": "16760",
+    "Third Party": "MCT"
+    },
+    "444" : {
+    "Seller": "ARK Mortgage",
+    "Mappedto": "ARK_Mtge",
+    "Seller ID": "210",
+    "Channel": "10286",
+    "Third Party": "MCT"
+    },
+    "227" : {
+    "Seller": "Associated Mortgage",
+    "Mappedto": "Associated_Mtge",
+    "Seller ID": "210",
+    "Channel": "23808",
+    "Third Party": "MCT"
+    },
+    "365" : {
+    "Seller": "Altlantic Coast Mortgage",
+    "Mappedto": "Atlantic_Coast_Mtge",
+    "Seller ID": "212",
+    "Channel": "12989",
+    "Third Party": "MCT"
+    },
+    "215" : {
+    "Seller": "Atlantic Home Loans",
+    "Mappedto": "Atlantic_Home_Loans",
+    "Seller ID": "212",
+    "Channel": "30022",
+    "Third Party": "MCT"
+    },
+    "421" : {
+    "Seller": "Atlantic Union Bank",
+    "Mappedto": "Atlantic_Union_Bank",
+    "Seller ID": "212",
+    "Channel": "30309",
+    "Third Party": "MCT"
+    },
+    "415" : {
+    "Seller": "Banc One Mortgage Corporation",
+    "Mappedto": "Banc_One_Mortgage",
+    "Seller ID": "210",
+    "Channel": "30073",
+    "Third Party": "MCT"
+    },
+    "335" : {
+    "Seller": "Bangor Savings Bank",
+    "Mappedto": "Bangor_Savings",
+    "Seller ID": "212",
+    "Channel": "11293",
+    "Third Party": "MCT"
+    },
+    "Bank Of Colorado (Optimal Blue)" : {
+    "Seller": "Bank of Colorado",
+    "Mappedto": "Bank_of_Colorado",
+    "Seller ID": "200",
+    "Channel": "23112",
+    "Third Party": "Resitrader"
+    },
+    "Bank of England (Optimal Blue)" : {
+    "Seller": "Bank of England",
+    "Mappedto": "Bank_of_England",
+    "Seller ID": "212",
+    "Channel": "10236",
+    "Third Party": "Resitrader"
+    },
+    "317" : {
+    "Seller": "Bank of Little Rock Mortgage ",
+    "Mappedto": "Bank_of_Little_Rock_Mtge",
+    "Seller ID": "200",
+    "Channel": "23268",
+    "Third Party": "MCT"
+    },
+    "BankSouth Mortgage Company, LLC (Optimal Blue)" : {
+    "Seller": "BankSouth Mortgage Company",
+    "Mappedto": "BankSouth_Mtge",
+    "Seller ID": "212",
+    "Channel": "12690",
+    "Third Party": "Resitrader"
+    },
+    "136" : {
+    "Seller": "Bay Capital Mortgage Corp",
+    "Mappedto": "Bay_Capital_Mtge",
+    "Seller ID": "210",
+    "Channel": "12714",
+    "Third Party": "MCT"
+    },
+    "273" : {
+    "Seller": "Bayshore Mortgage Funding LLC",
+    "Mappedto": "Bayshore_Mtge_Funding",
+    "Seller ID": "210",
+    "Channel": "12890",
+    "Third Party": "MCT"
+    },
+    "Belem Servicing LLC dba Patriot Home Mortgage" : {
+    "Seller": "Belem Servicing dba Patriot Home Mortgage",
+    "Mappedto": "Belem",
+    "Seller ID": "200",
+    "Channel": "30406",
+    "Third Party": "Resitrader"
+    },
+    "Ark La Tex Financial Services dba Benchmark Mortgage" : {
+    "Seller": "Benchmark Mortgage dba Ark-La-Tex Financial Services",
+    "Mappedto": "Benchmark_Mtge",
+    "Seller ID": "210",
+    "Channel": "30113",
+    "Third Party": "Resitrader"
+    },
+    "159" : {
+    "Seller": "Best Capital Funding",
+    "Mappedto": "Best_Capital_Funding",
+    "Seller ID": "210",
+    "Channel": "10202",
+    "Third Party": "MCT"
+    },
+    "Better Mortgage" : {
+    "Seller": "Better Mortgage dba Avex Funding Corp",
+    "Mappedto": "Better_Mtge",
+    "Seller ID": "215",
+    "Channel": "30063",
+    "Third Party": "Resitrader"
+    },
+    " " : {
+    "Seller": "Blue Ridge Bank, N.A.",
+    "Mappedto": "Blue_Ridge",
+    "Seller ID": "212",
+    "Channel": "30222",
+    "Third Party": "None"
+    },
+    "268" : {
+    "Seller": "Bond Street Mortgage",
+    "Mappedto": "Bond_Street_Mortgage",
+    "Seller ID": "210",
+    "Channel": "30284",
+    "Third Party": "MCT"
+    },
+    "216" : {
+    "Seller": "Box Home Loans dba Nudge Funding, LLC",
+    "Mappedto": "Box_Home_Loans",
+    "Seller ID": "200",
+    "Channel": "20444",
+    "Third Party": "MCT"
+    },
+    "Brand Mortgage Group, LLC (Optimal Blue)" : {
+    "Seller": "Brand Mortgage Group",
+    "Mappedto": "Brand_Mtge",
+    "Seller ID": "210",
+    "Channel": "23571",
+    "Third Party": "Resitrader"
+    },
+    "303" : {
+    "Seller": "C and F Mortgage Corp",
+    "Mappedto": "C&F Mtge",
+    "Seller ID": "210",
+    "Channel": "18873",
+    "Third Party": "MCT"
+    },
+    "141" : {
+    "Seller": "CalCon Mutual Mortgage",
+    "Mappedto": "CalCon_Mutual",
+    "Seller ID": "210",
+    "Channel": "21008",
+    "Third Party": "MCT"
+    },
+    "Cambria Mortgage (Optimal Blue)" : {
+    "Seller": "Cambria Financial Group",
+    "Mappedto": "Cambria_Financial_Group",
+    "Seller ID": "210",
+    "Channel": "12730",
+    "Third Party": "Resitrader"
+    },
+    "Capital Bank (MD)" : {
+    "Seller": "Capital Bank NA.",
+    "Mappedto": "Capital_Bank_NA",
+    "Seller ID": "212",
+    "Channel": "12774",
+    "Third Party": "Resitrader"
+    },
+    "405" : {
+    "Seller": "Capstar Lending",
+    "Mappedto": "Capstar",
+    "Seller ID": "#N/A",
+    "Channel": "22696",
+    "Third Party": "MCT"
+    },
+    "329" : {
+    "Seller": "Capstar Bank",
+    "Mappedto": "Capstar_Bank",
+    "Seller ID": "211",
+    "Channel": "10129",
+    "Third Party": "MCT"
+    },
+    "366" : {
+    "Seller": "Carrollton Bank",
+    "Mappedto": "Carrollton_Bank",
+    "Seller ID": "210",
+    "Channel": "12833",
+    "Third Party": "MCT"
+    },
+    "CBM Mortgage (Optimal Blue)" : {
+    "Seller": "CBM Mortgage, Inc.",
+    "Mappedto": "CBM_Mortgage",
+    "Seller ID": "210",
+    "Channel": "30221",
+    "Third Party": "Resitrader"
+    },
+    "95" : {
+    "Seller": "Celebrity Home Loans, LLC",
+    "Mappedto": "Celebrity_Home_Loans",
+    "Seller ID": "210",
+    "Channel": "12776",
+    "Third Party": "MCT"
+    },
+    "Centennial Bank (Optimal Blue)" : {
+    "Seller": "Centennial Bank",
+    "Mappedto": "Centennial_Bank",
+    "Seller ID": "212",
+    "Channel": "12665",
+    "Third Party": "Resitrader"
+    },
+    "291" : {
+    "Seller": "CenterState Bank, N.A. (South State)",
+    "Mappedto": "CenterState",
+    "Seller ID": "212",
+    "Channel": "12439",
+    "Third Party": "MCT"
+    },
+    "304" : {
+    "Seller": "Charter West Bank",
+    "Mappedto": "Charter_West_Bank",
+    "Seller ID": "200",
+    "Channel": "30082",
+    "Third Party": "MCT"
+    },
+    "261" : {
+    "Seller": "Chicago Financial Services",
+    "Mappedto": "Chicago_Financial_Services",
+    "Seller ID": "200",
+    "Channel": "12793",
+    "Third Party": "MCT"
+    },
+    "22" : {
+    "Seller": "CIBC Bank USA",
+    "Mappedto": "CIBC_Bank",
+    "Seller ID": "212",
+    "Channel": "12119",
+    "Third Party": "MCT"
+    },
+    "CIBM Bank" : {
+    "Seller": "CIBM",
+    "Mappedto": "CIBM",
+    "Seller ID": "210",
+    "Channel": "12951",
+    "Third Party": "Resitrader"
+    },
+    "300" : {
+    "Seller": "City Lending",
+    "Mappedto": "City_Lending",
+    "Seller ID": "200",
+    "Channel": "10407",
+    "Third Party": "MCT"
+    },
+    "104" : {
+    "Seller": "Cliffco",
+    "Mappedto": "Cliffco_Mtge",
+    "Seller ID": "210",
+    "Channel": "12581",
+    "Third Party": "MCT"
+    },
+    "218" : {
+    "Seller": "CLM Mortgage",
+    "Mappedto": "CLM_Mtge",
+    "Seller ID": "210",
+    "Channel": "20455",
+    "Third Party": "MCT"
+    },
+    "286" : {
+    "Seller": "SK Global Investment, Inc.",
+    "Mappedto": "CMAC",
+    "Seller ID": "200",
+    "Channel": "30438",
+    "Third Party": "MCT"
+    },
+    "121" : {
+    "Seller": "CNN Mortgage",
+    "Mappedto": "CNN_Mtge",
+    "Seller ID": "212",
+    "Channel": "23184",
+    "Third Party": "MCT"
+    },
+    "447" : {
+    "Seller": "Colten Mortgage",
+    "Mappedto": "Colten_Mtge",
+    "Seller ID": "200",
+    "Channel": "30434",
+    "Third Party": "MCT"
+    },
+    "395" : {
+    "Seller": "Columbia State Bank",
+    "Mappedto": "Columbia_State_Bank",
+    "Seller ID": "211",
+    "Channel": "30101",
+    "Third Party": "MCT"
+    },
+    "238" : {
+    "Seller": "Community Mortgage",
+    "Mappedto": "Community_Mtge",
+    "Seller ID": "200",
+    "Channel": "12272",
+    "Third Party": "MCT"
+    },
+    "7" : {
+    "Seller": "Community Mortgage Corporation",
+    "Mappedto": "Community_Mtge_Corp",
+    "Seller ID": "210",
+    "Channel": "22335",
+    "Third Party": "MCT"
+    },
+    "Cornerstone Home Lending, Inc." : {
+    "Seller": "Cornerstone Home Lending",
+    "Mappedto": "Cornerstone_Home_Lending",
+    "Seller ID": "211",
+    "Channel": "24900",
+    "Third Party": "Resitrader"
+    },
+    "142" : {
+    "Seller": "Country Club Mortgage",
+    "Mappedto": "Country_Club_Mtge",
+    "Seller ID": "210",
+    "Channel": "12847",
+    "Third Party": "MCT"
+    },
+    "287" : {
+    "Seller": "Customer Service Mortgage Corporation",
+    "Mappedto": "CSMC",
+    "Seller ID": "210",
+    "Channel": "30053",
+    "Third Party": "MCT"
+    },
+    "175" : {
+    "Seller": "Cornerstone Mortgage Group DBA CStone Mortgage",
+    "Mappedto": "CStone_Mtge",
+    "Seller ID": "212",
+    "Channel": "10375",
+    "Third Party": "MCT"
+    },
+    "Delmar Financial Company" : {
+    "Seller": "Delmar Financial Company",
+    "Mappedto": "Delmar_Financial",
+    "Seller ID": "212",
+    "Channel": "18772",
+    "Third Party": "Resitrader"
+    },
+    "241" : {
+    "Seller": "Dignified Home Loans, LLC",
+    "Mappedto": "Dignified_HL",
+    "Seller ID": "210",
+    "Channel": "10239",
+    "Third Party": "MCT"
+    },
+    "129" : {
+    "Seller": "Direct Mortgage Loans",
+    "Mappedto": "Direct_Mtge",
+    "Seller ID": "210",
+    "Channel": "10100",
+    "Third Party": "MCT"
+    },
+    "326" : {
+    "Seller": "Directors Mortgage",
+    "Mappedto": "Directors_Mtge",
+    "Seller ID": "210",
+    "Channel": "30014",
+    "Third Party": "MCT"
+    },
+    "1st Advantage Mortgage dba Draper and Kramer Mortgage" : {
+    "Seller": "Draper & Kramer",
+    "Mappedto": "Draper_Kramer",
+    "Seller ID": "211",
+    "Channel": "23247",
+    "Third Party": "Resitrader"
+    },
+    "206" : {
+    "Seller": "E Mortgage Management, LLC",
+    "Mappedto": "E_Mtge_Management",
+    "Seller ID": "210",
+    "Channel": "30201",
+    "Third Party": "MCT"
+    },
+    "402" : {
+    "Seller": "East Coast Capital Corp",
+    "Mappedto": "East_Coast",
+    "Seller ID": "210",
+    "Channel": "10414",
+    "Third Party": "MCT"
+    },
+    "Homestead Financial Mortgage, LLC (Optimal Blue)" : {
+    "Seller": "Endeavor Capital",
+    "Mappedto": "Endeavor_Capital",
+    "Seller ID": "210",
+    "Channel": "18904",
+    "Third Party": "Resitrader"
+    },
+    "Envision Bank (Optimal Blue)" : {
+    "Seller": "Envision Bank",
+    "Mappedto": "Envision_Bank",
+    "Seller ID": "211",
+    "Channel": "20360",
+    "Third Party": "Resitrader"
+    },
+    "Equity Resources, Inc." : {
+    "Seller": "Equity Resources Inc",
+    "Mappedto": "Equity_Resources",
+    "Seller ID": "212",
+    "Channel": "23536",
+    "Third Party": "Resitrader"
+    },
+    "245" : {
+    "Seller": "Eustis Mortgage Corp",
+    "Mappedto": "Eustis_Mtge",
+    "Seller ID": "212",
+    "Channel": "30030",
+    "Third Party": "MCT"
+    },
+    "1000" : {
+    "Seller": "Evolve Bank & Trust",
+    "Mappedto": "Evolve_BT",
+    "Seller ID": "212",
+    "Channel": "20453",
+    "Third Party": "MCT"
+    },
+    "135" : {
+    "Seller": "F&B Acquisition Group",
+    "Mappedto": "FB_Financial",
+    "Seller ID": "200",
+    "Channel": "12126",
+    "Third Party": "MCT"
+    },
+    "360" : {
+    "Seller": "Fidelity Bank, N.A.",
+    "Mappedto": "Fidelity_Bank",
+    "Seller ID": "212",
+    "Channel": "23280",
+    "Third Party": "MCT"
+    },
+    "Fidelity Bank IA (Optimal Blue)" : {
+    "Seller": "Fidelity Bank Iowa",
+    "Mappedto": "Fidelity_Bank_IA",
+    "Seller ID": "200",
+    "Channel": "12264",
+    "Third Party": "Resitrader"
+    },
+    "340" : {
+    "Seller": "Financial Funding Solutions DBA Pivot Lending Group",
+    "Mappedto": "Financial_Funding_Solutions",
+    "Seller ID": "200",
+    "Channel": "10368",
+    "Third Party": "MCT"
+    },
+    "1st 2nd Mortgage Co. of N.J., Inc. (Flatirons)" : {
+    "Seller": "1st 2nd Mortgage Company of NJ, Inc.",
+    "Mappedto": "First_2nd_Mtge_Co_NJ",
+    "Seller ID": "212",
+    "Channel": "12567",
+    "Third Party": "None"
+    },
+    "133" : {
+    "Seller": "First Alliance Home Mortgage",
+    "Mappedto": "First_Alliance_Home_Mtge",
+    "Seller ID": "210",
+    "Channel": "10449",
+    "Third Party": "MCT"
+    },
+    "279" : {
+    "Seller": "First Bank",
+    "Mappedto": "First_Bank",
+    "Seller ID": "212",
+    "Channel": "23622",
+    "Third Party": "MCT"
+    },
+    "First Centennial Mortgage Corp.(Optimal Blue)" : {
+    "Seller": "First Centennial Mortgage Corp",
+    "Mappedto": "First_Centennial_Mtge",
+    "Seller ID": "200",
+    "Channel": "23510",
+    "Third Party": "Resitrader"
+    },
+    "297" : {
+    "Seller": "First Financial Bank, N.A.",
+    "Mappedto": "First_Financial_Bank",
+    "Seller ID": "212",
+    "Channel": "20270",
+    "Third Party": "MCT"
+    },
+    "First Home Bank" : {
+    "Seller": "First Home Bank",
+    "Mappedto": "First_Home_Bank",
+    "Seller ID": "210",
+    "Channel": "30095",
+    "Third Party": "Resitrader"
+    },
+    "Evansville Teachers Federal Credit Union (Optimal Blue)" : {
+    "Seller": "First Liberty Financial Mortgage",
+    "Mappedto": "First_Liberty_Financial_Mtge",
+    "Seller ID": "210",
+    "Channel": "30015",
+    "Third Party": "Resitrader"
+    },
+    "First Midwest Bank (Optimal Blue)" : {
+    "Seller": "First Midwest Bank",
+    "Mappedto": "First_Midwest_Bank",
+    "Seller ID": "200",
+    "Channel": "12882",
+    "Third Party": "Resitrader"
+    },
+    "First National Bank of Middle Tennessee" : {
+    "Seller": "First National Bank of Middle Tennessee",
+    "Mappedto": "First_National_Bank_Middle_Tennessee",
+    "Seller ID": "210",
+    "Channel": "12676",
+    "Third Party": "Resitrader"
+    },
+    "114" : {
+    "Seller": "First Nations Home Finance Corp",
+    "Mappedto": "First_Nations_HF",
+    "Seller ID": "200",
+    "Channel": "24744",
+    "Third Party": "MCT"
+    },
+    "First Option Mortgage, LLC" : {
+    "Seller": "First Option Mortgage, LLC",
+    "Mappedto": "First_Option",
+    "Seller ID": "200",
+    "Channel": "12245",
+    "Third Party": "Resitrader"
+    },
+    "First Western Trust (Optimal Blue)" : {
+    "Seller": "First Western Trust Bank",
+    "Mappedto": "First_Western_Trust",
+    "Seller ID": "210",
+    "Channel": "10249",
+    "Third Party": "Resitrader"
+    },
+    "First World Mortgage" : {
+    "Seller": "First World Mortgage Corporation",
+    "Mappedto": "First_World_Mtge",
+    "Seller ID": "212",
+    "Channel": "10113",
+    "Third Party": "Resitrader"
+    },
+    "FirstTrust Home Loans Inc (Optimal Blue)" : {
+    "Seller": "FirstTrust Home Loans, Inc",
+    "Mappedto": "FirstTrust_Home_Loans, Inc",
+    "Seller ID": "200",
+    "Channel": "30232",
+    "Third Party": "Resitrader"
+    },
+    "428" : {
+    "Seller": "FlexPoint, Inc.",
+    "Mappedto": "FlexPoint",
+    "Seller ID": "210",
+    "Channel": "12256",
+    "Third Party": "MCT"
+    },
+    "146" : {
+    "Seller": "FM Home Loans, LLC",
+    "Mappedto": "FM_Home_Loans",
+    "Seller ID": "212",
+    "Channel": "30148",
+    "Third Party": "MCT"
+    },
+    "Franklin Loan Corp (Optimal Blue)" : {
+    "Seller": "Franklin Loan Corporation",
+    "Mappedto": "Franklin_Loan_Corp",
+    "Seller ID": "210",
+    "Channel": "12374",
+    "Third Party": "Resitrader"
+    },
+    "260" : {
+    "Seller": "General Mortgage Capital",
+    "Mappedto": "General_Mtge",
+    "Seller ID": "211",
+    "Channel": "12982",
+    "Third Party": "MCT"
+    },
+    "Geneva Financial" : {
+    "Seller": "Geneva Financial, LLC",
+    "Mappedto": "Geneva",
+    "Seller ID": "210",
+    "Channel": "12911",
+    "Third Party": "Resitrader"
+    },
+    "Gershman Investment Corp (Optimal Blue)" : {
+    "Seller": "Gershman Mortgage dba Gershman Investment Corp",
+    "Mappedto": "Gershman_Mtge",
+    "Seller ID": "212",
+    "Channel": "23786",
+    "Third Party": "Resitrader"
+    },
+    "306" : {
+    "Seller": "Get A Rate, LLC",
+    "Mappedto": "Get_A_Rate",
+    "Seller ID": "210",
+    "Channel": "10295",
+    "Third Party": "MCT"
+    },
+    "272" : {
+    "Seller": "Glacier Bank",
+    "Mappedto": "Glacier_Bank",
+    "Seller ID": "211",
+    "Channel": "23197",
+    "Third Party": "MCT"
+    },
+    "34" : {
+    "Seller": "Glendenning Mortgage Corp",
+    "Mappedto": "Glendenning_Mtge_Corp",
+    "Seller ID": "210",
+    "Channel": "30115",
+    "Third Party": "MCT"
+    },
+    "836" : {
+    "Seller": "Golden Empire Mortgage",
+    "Mappedto": "Golden_Empire_Mtge",
+    "Seller ID": "212",
+    "Channel": "23160",
+    "Third Party": "MCT"
+    },
+    "Golden West Alliance Inc. dba Provident Lending Group (Optimal Blue)" : {
+    "Seller": "Golden West Alliance",
+    "Mappedto": "Golden_West",
+    "Seller ID": "210",
+    "Channel": "10297",
+    "Third Party": "Resitrader"
+    },
+    "134" : {
+    "Seller": "Googain Inc",
+    "Mappedto": "Googain",
+    "Seller ID": "211",
+    "Channel": "12974",
+    "Third Party": "MCT"
+    },
+    "GoPrime Mortgage, Inc." : {
+    "Seller": "GoPrime Mortgage",
+    "Mappedto": "GoPrime_Mtge",
+    "Seller ID": "210",
+    "Channel": "12443",
+    "Third Party": "Resitrader"
+    },
+    "69" : {
+    "Seller": "Graystone Funding Company dba Graystone Mortgage",
+    "Mappedto": "Graystone_Mtge",
+    "Seller ID": "200",
+    "Channel": "12735",
+    "Third Party": "MCT"
+    },
+    "174" : {
+    "Seller": "Guild Mortgage Co",
+    "Mappedto": "Guild_Mortgage_Co",
+    "Seller ID": "211",
+    "Channel": "23507",
+    "Third Party": "MCT"
+    },
+    "237" : {
+    "Seller": "Hancock Mortgage Partners",
+    "Mappedto": "Hancock_Mtge",
+    "Seller ID": "#N/A",
+    "Channel": "23772",
+    "Third Party": "MCT"
+    },
+    "406" : {
+    "Seller": "Hartford Funding LTD",
+    "Mappedto": "Hartford",
+    "Seller ID": "210",
+    "Channel": "30128",
+    "Third Party": "MCT"
+    },
+    "258" : {
+    "Seller": "Home Mortgage Alliance Corp",
+    "Mappedto": "HMAC",
+    "Seller ID": "210",
+    "Channel": "30029",
+    "Third Party": "MCT"
+    },
+    "336" : {
+    "Seller": "Austin Capital Bank SSB",
+    "Mappedto": "Home_Vantage",
+    "Seller ID": "200",
+    "Channel": "30155",
+    "Third Party": "MCT"
+    },
+    "Homeowners Financial Group" : {
+    "Seller": "Homeowners Financial Group",
+    "Mappedto": "Homeowners_Financial ",
+    "Seller ID": "212",
+    "Channel": "12542",
+    "Third Party": "Resitrader"
+    },
+    "37" : {
+    "Seller": "Homestar Financial Corporation",
+    "Mappedto": "Homestar",
+    "Seller ID": "211",
+    "Channel": "30433",
+    "Third Party": "MCT"
+    },
+    "242" : {
+    "Seller": "Hometown Lenders",
+    "Mappedto": "Hometown_Lenders",
+    "Seller ID": "200",
+    "Channel": "10464",
+    "Third Party": "MCT"
+    },
+    "371" : {
+    "Seller": "Howard Hanna Financial Services",
+    "Mappedto": "Howard_Hanna",
+    "Seller ID": "#N/A",
+    "Channel": "30363",
+    "Third Party": "MCT"
+    },
+    "330" : {
+    "Seller": "Hunt Mortgage Corporation",
+    "Mappedto": "Hunt_Mtge_Corp",
+    "Seller ID": "210",
+    "Channel": "23228",
+    "Third Party": "MCT"
+    },
+    "Inland Bank (Optimal Blue)" : {
+    "Seller": "Inland Bank & Trust",
+    "Mappedto": "Inland_BT",
+    "Seller ID": "211",
+    "Channel": "21007",
+    "Third Party": "Resitrader"
+    },
+    "327" : {
+    "Seller": "Integrity Mortgage Corp",
+    "Mappedto": "Integrity_Mte_Corp",
+    "Seller ID": "200",
+    "Channel": "12894",
+    "Third Party": "Resitrader"
+    },
+    "Intercap Lending" : {
+    "Seller": "Intercap Lending Inc",
+    "Mappedto": "Intercap_Lending",
+    "Seller ID": "211",
+    "Channel": "30224",
+    "Third Party": "Resitrader"
+    },
+    "32" : {
+    "Seller": "Internation City Mortgage",
+    "Mappedto": "International_City_Mtge",
+    "Seller ID": "210",
+    "Channel": "30100",
+    "Third Party": "MCT"
+    },
+    "169" : {
+    "Seller": "iServ Residential Lending",
+    "Mappedto": "iServ_Residential",
+    "Seller ID": "210",
+    "Channel": "12697",
+    "Third Party": "MCT"
+    },
+    "Ivy Mortgage" : {
+    "Seller": "Ivy Mortgage",
+    "Mappedto": "Ivy_Mortgage",
+    "Seller ID": "215",
+    "Channel": "10179",
+    "Third Party": "Resitrader"
+    },
+    "NHM Group, LLC (Optimal Blue)" : {
+    "Seller": "Ixonia Bank",
+    "Mappedto": "Ixonia",
+    "Seller ID": "200",
+    "Channel": "30387",
+    "Third Party": "Resitrader"
+    },
+    "J Virgil, Inc. dba Cason Home Loans (Optimal Blue)" : {
+    "Seller": "J. Virgil, Inc.",
+    "Mappedto": "J_Virgil",
+    "Seller ID": "200",
+    "Channel": "12633",
+    "Third Party": "Resitrader"
+    },
+    "Jet Direct Funding Corp. dba Jet Direct Mortgage" : {
+    "Seller": "Jet Direct Funding Corp",
+    "Mappedto": "Jet_Direct",
+    "Seller ID": "200",
+    "Channel": "10432",
+    "Third Party": "Resitrader"
+    },
+    "24" : {
+    "Seller": "JMJ Financial Group",
+    "Mappedto": "JMJ_Financial",
+    "Seller ID": "210",
+    "Channel": "23787",
+    "Third Party": "MCT"
+    },
+    "Key Mortgage Services, Inc." : {
+    "Seller": "Key Mortgage Services Inc",
+    "Mappedto": "Key_Mtge_Services",
+    "Seller ID": "212",
+    "Channel": "15439",
+    "Third Party": "Resitrader"
+    },
+    "26" : {
+    "Seller": "Kings Mortgage Services",
+    "Mappedto": "Kings_Mtge",
+    "Seller ID": "210",
+    "Channel": "23780",
+    "Third Party": "MCT"
+    },
+    "263" : {
+    "Seller": "KS StateBank",
+    "Mappedto": "Ks_State",
+    "Seller ID": "212",
+    "Channel": "23635",
+    "Third Party": "MCT"
+    },
+    "Landmark National Bank (Optimal Blue)" : {
+    "Seller": "Landmark National",
+    "Mappedto": "Landmark_National",
+    "Seller ID": "212",
+    "Channel": "23249",
+    "Third Party": "Resitrader"
+    },
+    "LeaderOne Financial" : {
+    "Seller": "LeaderOne Financial Corp",
+    "Mappedto": "LeaderOne_Financial",
+    "Seller ID": "211",
+    "Channel": "12193",
+    "Third Party": "Resitrader"
+    },
+    "92" : {
+    "Seller": "Legacy Mortgage",
+    "Mappedto": "Legacy_Mtge",
+    "Seller ID": "210",
+    "Channel": "12652",
+    "Third Party": "MCT"
+    },
+    "Lendsmart Mortgage (Optimal Blue)" : {
+    "Seller": "Lend Smart Mortgage LLC",
+    "Mappedto": "Lend_Smart_Mtge",
+    "Seller ID": "210",
+    "Channel": "10137",
+    "Third Party": "Resitrader"
+    },
+    "262" : {
+    "Seller": "LendUS, LLC",
+    "Mappedto": "LendUS",
+    "Seller ID": "210",
+    "Channel": "12713",
+    "Third Party": "MCT"
+    },
+    "394" : {
+    "Seller": "LoanPeople, LLC",
+    "Mappedto": "Loan_People",
+    "Seller ID": "200",
+    "Channel": "30367",
+    "Third Party": "MCT"
+    },
+    "87" : {
+    "Seller": "Loan Simple",
+    "Mappedto": "Loan_Simple",
+    "Seller ID": "200",
+    "Channel": "10150",
+    "Third Party": "MCT"
+    },
+    "Luminate Home Loans, Inc" : {
+    "Seller": "Luminate Home Loans, Inc.",
+    "Mappedto": "Luminate",
+    "Seller ID": "212",
+    "Channel": "12390",
+    "Third Party": "Resitrader"
+    },
+    "116" : {
+    "Seller": "Luxury Mortgage Corp",
+    "Mappedto": "Luxury_Mtge",
+    "Seller ID": "200",
+    "Channel": "30024",
+    "Third Party": "MCT"
+    },
+    "349" : {
+    "Seller": "M2 Lending Solutions, LLC",
+    "Mappedto": "M2",
+    "Seller ID": "200",
+    "Channel": "12986",
+    "Third Party": "MCT"
+    },
+    "98" : {
+    "Seller": "Mortgage Capital Partners",
+    "Mappedto": "MCP",
+    "Seller ID": "211",
+    "Channel": "12814",
+    "Third Party": "MCT"
+    },
+    "Meadowbrook Financial Mortgage Bankers Corp. (Optimal Blue)" : {
+    "Seller": "Meadowbrook Financial Mortgage Corp",
+    "Mappedto": "Meadowbrook_Financial",
+    "Seller ID": "211",
+    "Channel": "12703",
+    "Third Party": "Resitrader"
+    },
+    "128" : {
+    "Seller": "Meridian Bank",
+    "Mappedto": "Meridian Bank",
+    "Seller ID": "210",
+    "Channel": "30382",
+    "Third Party": "MCT"
+    },
+    "348" : {
+    "Seller": "Mid-Continent Funding, Inc.",
+    "Mappedto": "Mid_Continent",
+    "Seller ID": "#N/A",
+    "Channel": "30378",
+    "Third Party": "MCT"
+    },
+    "Mission Mortgage, Inc." : {
+    "Seller": "Mission Mortgage dba Home Financing Unlimited",
+    "Mappedto": "Mission_Mtge",
+    "Seller ID": "200",
+    "Channel": "23750",
+    "Third Party": "Resitrader"
+    },
+    "MLB Residential Lending, LLC (Optimal Blue)" : {
+    "Seller": "MLB Mortgage",
+    "Mappedto": "MLB_Mtge",
+    "Seller ID": "210",
+    "Channel": "10355",
+    "Third Party": "Resitrader"
+    },
+    "MLD Mortgage, dba The Money Store" : {
+    "Seller": "MLD Mortgage Inc.",
+    "Mappedto": "MLD_MoneyStore",
+    "Seller ID": "215",
+    "Channel": "30341",
+    "Third Party": "None"
+    },
+    "435" : {
+    "Seller": "Mortgage Link, Inc., The",
+    "Mappedto": "Mortgage Link",
+    "Seller ID": "215",
+    "Channel": "30031",
+    "Third Party": "MCT"
+    },
+    "373" : {
+    "Seller": "Mortgage Assurance Inc",
+    "Mappedto": "Mortgage_Assurance",
+    "Seller ID": "200",
+    "Channel": "30138",
+    "Third Party": "MCT"
+    },
+    "325" : {
+    "Seller": "Mortgage Equity Partners, LLC",
+    "Mappedto": "Mortgage_Equity_Partners",
+    "Seller ID": "210",
+    "Channel": "12725",
+    "Third Party": "MCT"
+    },
+    "298" : {
+    "Seller": "Mortgage Financial Services",
+    "Mappedto": "Mortgage_Financial_Services",
+    "Seller ID": "210",
+    "Channel": "10277",
+    "Third Party": "MCT"
+    },
+    "Mortgage Master Service Corp. (Optimal Blue)" : {
+    "Seller": "Mortgage Master Service Corp",
+    "Mappedto": "Mortgage_Master",
+    "Seller ID": "210",
+    "Channel": "12249",
+    "Third Party": "Resitrader"
+    },
+    "431" : {
+    "Seller": "MortgageCountry, LLC",
+    "Mappedto": "MortgageCountry",
+    "Seller ID": "215",
+    "Channel": "30397",
+    "Third Party": "MCT"
+    },
+    "257" : {
+    "Seller": "Mortgages Unlimited",
+    "Mappedto": "Mortgages_Unlimited",
+    "Seller ID": "200",
+    "Channel": "15402",
+    "Third Party": "MCT"
+    },
+    "234" : {
+    "Seller": "Mountain West Financial",
+    "Mappedto": "Mountain_West",
+    "Seller ID": "211",
+    "Channel": "11217",
+    "Third Party": "MCT"
+    },
+    "2" : {
+    "Seller": "MSA Mortgage LLC",
+    "Mappedto": "MSA_Mtge",
+    "Seller ID": "200",
+    "Channel": "30127",
+    "Third Party": "MCT"
+    },
+    "328" : {
+    "Seller": "Mutual of Omaha Mortgage, Inc.",
+    "Mappedto": "Mutual_Omaha",
+    "Seller ID": "212",
+    "Channel": "20378",
+    "Third Party": "MCT"
+    },
+    "My Mortgage, Inc. (Optimal Blue)" : {
+    "Seller": "My Mortgage, Inc",
+    "Mappedto": "My_Mortgage",
+    "Seller ID": "210",
+    "Channel": "30392",
+    "Third Party": "Resitrader"
+    },
+    "North American Savings Bank FSB" : {
+    "Seller": "North American Savings Bank",
+    "Mappedto": "NASB",
+    "Seller ID": "212",
+    "Channel": "15659",
+    "Third Party": "Resitrader"
+    },
+    "343" : {
+    "Seller": "Nation One Mortgage Corp",
+    "Mappedto": "Nation_One",
+    "Seller ID": "210",
+    "Channel": "30078",
+    "Third Party": "MCT"
+    },
+    "Nations Reliable Lending, LLC (Optimal Blue)" : {
+    "Seller": "Nations Reliable Lending",
+    "Mappedto": "Nations_Reliable_Lending",
+    "Seller ID": "200",
+    "Channel": "22942",
+    "Third Party": "Resitrader"
+    },
+    "Nationwide Mortgage Bankers" : {
+    "Seller": "Nationwide Mortgage Bankers",
+    "Mappedto": "Nationwide_Mtge",
+    "Seller ID": "210",
+    "Channel": "30135",
+    "Third Party": "Resitrader"
+    },
+    "217" : {
+    "Seller": "NBKC Bank",
+    "Mappedto": "NBKC",
+    "Seller ID": "216",
+    "Channel": "23076",
+    "Third Party": "MCT"
+    },
+    "Neighborhood Loans" : {
+    "Seller": "Neighborhood Loans Inc",
+    "Mappedto": "Neighborhood_Loans",
+    "Seller ID": "211",
+    "Channel": "10173",
+    "Third Party": "Resitrader"
+    },
+    "361" : {
+    "Seller": "New FED Mortgage Corp",
+    "Mappedto": "New_FED_Mtge",
+    "Seller ID": "212",
+    "Channel": "12615",
+    "Third Party": "MCT"
+    },
+    "1" : {
+    "Seller": "NFM Lending",
+    "Mappedto": "NFM_Lending",
+    "Seller ID": "212",
+    "Channel": "10169",
+    "Third Party": "MCT"
+    },
+    "NJ Lenders Corp." : {
+    "Seller": "NJ Lenders Corp",
+    "Mappedto": "NJ_Lenders",
+    "Seller ID": "212",
+    "Channel": "18817",
+    "Third Party": "Resitrader"
+    },
+    "266" : {
+    "Seller": "Northpoint Mortgage, Inc.",
+    "Mappedto": "Northpoint",
+    "Seller ID": "211",
+    "Channel": "12727",
+    "Third Party": "MCT"
+    },
+    "NP, Inc. DBA U.S. Mortgage Company of Florida" : {
+    "Seller": "NP, Inc.",
+    "Mappedto": "NP_Inc",
+    "Seller ID": "200",
+    "Channel": "30051",
+    "Third Party": "Resitrader"
+    },
+    "407" : {
+    "Seller": "Ocean Lending",
+    "Mappedto": "Ocean_Lending",
+    "Seller ID": "200",
+    "Channel": "30254",
+    "Third Party": "MCT"
+    },
+    "125" : {
+    "Seller": "OVM Financial, Inc.",
+    "Mappedto": "Old_Virginia",
+    "Seller ID": "210",
+    "Channel": "23451",
+    "Third Party": "MCT"
+    },
+    "63" : {
+    "Seller": "Ony Glo Inc",
+    "Mappedto": "Ony_Glo",
+    "Seller ID": "210",
+    "Channel": "22858",
+    "Third Party": "MCT"
+    },
+    "292" : {
+    "Seller": "Pacific Residential Mortgage",
+    "Mappedto": "Pac_Res_Mtge",
+    "Seller ID": "210",
+    "Channel": "12575",
+    "Third Party": "MCT"
+    },
+    "170" : {
+    "Seller": "Pacific Bay Lending dba Bay Valley Mortgage dba Valley View Home Loans",
+    "Mappedto": "Pacific_Bay_Lending",
+    "Seller ID": "210",
+    "Channel": "12694",
+    "Third Party": "MCT"
+    },
+    "64" : {
+    "Seller": "Paragon Home Loans",
+    "Mappedto": "Paragon_HL",
+    "Seller ID": "200",
+    "Channel": "23580",
+    "Third Party": "MCT"
+    },
+    "323" : {
+    "Seller": "Paramount Bank",
+    "Mappedto": "Paramount_Bank",
+    "Seller ID": "211",
+    "Channel": "30158",
+    "Third Party": "MCT"
+    },
+    "419" : {
+    "Seller": "Penrith Home Loans",
+    "Mappedto": "Penrith_Home_Loans",
+    "Seller ID": "210",
+    "Channel": "12345",
+    "Third Party": "MCT"
+    },
+    "280" : {
+    "Seller": "Peoples Mortgage Co dba Moria Development",
+    "Mappedto": "Peoples_Mtge_Co",
+    "Seller ID": "210",
+    "Channel": "12501",
+    "Third Party": "MCT"
+    },
+    "30" : {
+    "Seller": "Pike Creek Mortgage",
+    "Mappedto": "Pike_Creek_Mtge",
+    "Seller ID": "210",
+    "Channel": "12432",
+    "Third Party": "MCT"
+    },
+    "213" : {
+    "Seller": "Pilgrim Mortgage",
+    "Mappedto": "Pilgrim_Mtge",
+    "Seller ID": "200",
+    "Channel": "10374",
+    "Third Party": "MCT"
+    },
+    "140" : {
+    "Seller": "Pinnacle Bank - TN",
+    "Mappedto": "Pinnacle",
+    "Seller ID": "212",
+    "Channel": "23716",
+    "Third Party": "MCT"
+    },
+    "Plains Commerce Bank (Optimal Blue)" : {
+    "Seller": "Plains Commerce Bank",
+    "Mappedto": "Plains_Commerce_Bank",
+    "Seller ID": "212",
+    "Channel": "30116",
+    "Third Party": "Resitrader"
+    },
+    "433" : {
+    "Seller": "Platinum Home Mortgage Corp",
+    "Mappedto": "Platinum_Home_Mtge",
+    "Seller ID": "200",
+    "Channel": "23074",
+    "Third Party": "MCT"
+    },
+    "152" : {
+    "Seller": "Point Mortgage Corporation",
+    "Mappedto": "Point_Mortgage_Corp",
+    "Seller ID": "210",
+    "Channel": "12969",
+    "Third Party": "MCT"
+    },
+    "3" : {
+    "Seller": "Poli Mortgage Group",
+    "Mappedto": "Poli_Mtge",
+    "Seller ID": "210",
+    "Channel": "23578",
+    "Third Party": "MCT"
+    },
+    "276" : {
+    "Seller": "Premier Lending, Inc.",
+    "Mappedto": "Premier_Lending",
+    "Seller ID": "210",
+    "Channel": "30195",
+    "Third Party": "MCT"
+    },
+    "154" : {
+    "Seller": "Premium Mortgage Corporation",
+    "Mappedto": "Premium_Mortgage_Corporation",
+    "Seller ID": "210",
+    "Channel": "23812",
+    "Third Party": "MCT"
+    },
+    "278" : {
+    "Seller": "Presidential Bank, FSB",
+    "Mappedto": "Presidential_Bank",
+    "Seller ID": "212",
+    "Channel": "11248",
+    "Third Party": "MCT"
+    },
+    "45" : {
+    "Seller": "Primus Lending Corp.",
+    "Mappedto": "Primus",
+    "Seller ID": "210",
+    "Channel": "30102",
+    "Third Party": "MCT"
+    },
+    "Princeton Mortgage" : {
+    "Seller": "Princeton Mortgage Corp",
+    "Mappedto": "Princeton_Mtge",
+    "Seller ID": "212",
+    "Channel": "20180",
+    "Third Party": "Resitrader"
+    },
+    "384" : {
+    "Seller": "Priority Mortgage Corp.",
+    "Mappedto": "Priority",
+    "Seller ID": "210",
+    "Channel": "20190",
+    "Third Party": "MCT"
+    },
+    "167" : {
+    "Seller": "Province Mortgage Association",
+    "Mappedto": "Province_Mtge_Assoc",
+    "Seller ID": "210",
+    "Channel": "12881",
+    "Third Party": "MCT"
+    },
+    "422" : {
+    "Seller": "Premium Security Inc.",
+    "Mappedto": "PSI",
+    "Seller ID": "200",
+    "Channel": "30451",
+    "Third Party": "MCT"
+    },
+    "81" : {
+    "Seller": "Radius Financial",
+    "Mappedto": "Radius_Financial",
+    "Seller ID": "212",
+    "Channel": "23523",
+    "Third Party": "MCT"
+    },
+    "RANLife Home Loans" : {
+    "Seller": "RANLife Inc",
+    "Mappedto": "RanLIFE",
+    "Seller ID": "200",
+    "Channel": "30328",
+    "Third Party": "Resitrader"
+    },
+    "84" : {
+    "Seller": "Republic State Mortgage Co",
+    "Mappedto": "Republic_State_Mtge",
+    "Seller ID": "200",
+    "Channel": "23500",
+    "Third Party": "MCT"
+    },
+    "354" : {
+    "Seller": "Resource Financial",
+    "Mappedto": "Resource_Financial",
+    "Seller ID": "210",
+    "Channel": "20273",
+    "Third Party": "MCT"
+    },
+    "345" : {
+    "Seller": "T2 Financial LLC dba Revolution",
+    "Mappedto": "Revolution",
+    "Seller ID": "200",
+    "Channel": "30270",
+    "Third Party": "MCT"
+    },
+    "46" : {
+    "Seller": "Right Start Mortgage",
+    "Mappedto": "Right_Start_Mtge",
+    "Seller ID": "210",
+    "Channel": "10365",
+    "Third Party": "MCT"
+    },
+    "274" : {
+    "Seller": "Rockland Trust Company dba Blue Hills Bank",
+    "Mappedto": "Rockland_Trust",
+    "Seller ID": "200",
+    "Channel": "18822",
+    "Third Party": "MCT"
+    },
+    "201" : {
+    "Seller": "Ross Mortgage Corporation",
+    "Mappedto": "Ross_Mtge",
+    "Seller ID": "200",
+    "Channel": "30258",
+    "Third Party": "MCT"
+    },
+    "386" : {
+    "Seller": "Ross Mortgage Company, Inc.",
+    "Mappedto": "Ross_Mtge_Company",
+    "Seller ID": "200",
+    "Channel": "10343",
+    "Third Party": "MCT"
+    },
+    "339" : {
+    "Seller": "Ruoff Mortgage Company",
+    "Mappedto": "Ruoff_Mtge",
+    "Seller ID": "212",
+    "Channel": "23800",
+    "Third Party": "MCT"
+    },
+    "838" : {
+    "Seller": "S1L, Inc.",
+    "Mappedto": "S1L, Inc. ",
+    "Seller ID": "210",
+    "Channel": "30400",
+    "Third Party": "MCT"
+    },
+    "71" : {
+    "Seller": "Sandy Spring Bank",
+    "Mappedto": "Sandy_Spring_Bank",
+    "Seller ID": "212",
+    "Channel": "18941",
+    "Third Party": "MCT"
+    },
+    "Seatrust Mortgage Company (Optimal Blue)" : {
+    "Seller": "SeaTrust Mortgage Company",
+    "Mappedto": "SeaTrust",
+    "Seller ID": "210",
+    "Channel": "30416",
+    "Third Party": "Resitrader"
+    },
+    "233" : {
+    "Seller": "Security Home Mortgage",
+    "Mappedto": "Security_Home_Mtge",
+    "Seller ID": "212",
+    "Channel": "12683",
+    "Third Party": "MCT"
+    },
+    "312" : {
+    "Seller": "Semper Home Loans",
+    "Mappedto": "Semper Home Loans",
+    "Seller ID": "210",
+    "Channel": "30207",
+    "Third Party": "MCT"
+    },
+    "269" : {
+    "Seller": "Simmons Bank",
+    "Mappedto": "Simmons",
+    "Seller ID": "211",
+    "Channel": "23218",
+    "Third Party": "MCT"
+    },
+    "184" : {
+    "Seller": "SnapFi Inc",
+    "Mappedto": "SnapFi",
+    "Seller ID": "210",
+    "Channel": "20228",
+    "Third Party": "MCT"
+    },
+    "Southeast Mortgage" : {
+    "Seller": "Southeast Mortgage",
+    "Mappedto": "Southeast_Mtge",
+    "Seller ID": "212",
+    "Channel": "11243",
+    "Third Party": "Resitrader"
+    },
+    "212" : {
+    "Seller": "Southern First Bank",
+    "Mappedto": "Southern_First",
+    "Seller ID": "210",
+    "Channel": "22886",
+    "Third Party": "MCT"
+    },
+    "252" : {
+    "Seller": "Starboard Financial Management",
+    "Mappedto": "Starboard_Financial",
+    "Seller ID": "210",
+    "Channel": "12946",
+    "Third Party": "MCT"
+    },
+    "331" : {
+    "Seller": "Strong Home Mortgage",
+    "Mappedto": "Strong_Home_Mtge",
+    "Seller ID": "210",
+    "Channel": "30261",
+    "Third Party": "MCT"
+    },
+    "Suburban Mortgage Inc." : {
+    "Seller": "Suburban Mortgage",
+    "Mappedto": "Suburban_Mtge",
+    "Seller ID": "210",
+    "Channel": "12945",
+    "Third Party": "Resitrader"
+    },
+    "6" : {
+    "Seller": "Summit Mortgage Corp - MN",
+    "Mappedto": "Summit_Mtge_Corp_MN",
+    "Seller ID": "210",
+    "Channel": "16825",
+    "Third Party": "MCT"
+    },
+    "255" : {
+    "Seller": "Summit Mortgage Corp - OR",
+    "Mappedto": "Summit_Mtge_Corp_OR",
+    "Seller ID": "210",
+    "Channel": "12361",
+    "Third Party": "MCT"
+    },
+    "393" : {
+    "Seller": "Sunstreet Mortgage",
+    "Mappedto": "Sunstreet_Mtge",
+    "Seller ID": "210",
+    "Channel": "12387",
+    "Third Party": "MCT"
+    },
+    "388" : {
+    "Seller": "Texana Bank",
+    "Mappedto": "Texana_Bank",
+    "Seller ID": "200",
+    "Channel": "30379",
+    "Third Party": "MCT"
+    },
+    "285" : {
+    "Seller": "Home Loan Expert, LLC, The",
+    "Mappedto": "The_Home_Loan_Expert",
+    "Seller ID": "200",
+    "Channel": "30296",
+    "Third Party": "MCT"
+    },
+    "103" : {
+    "Seller": "The Mortgage Firm, Inc",
+    "Mappedto": "The_Mortgage_Firm",
+    "Seller ID": "212",
+    "Channel": "11380",
+    "Third Party": "MCT"
+    },
+    "314" : {
+    "Seller": "Thompson Kane & Company LLC",
+    "Mappedto": "Thompson_Kane",
+    "Seller ID": "210",
+    "Channel": "10465",
+    "Third Party": "MCT"
+    },
+    "Tradition Mortgage, LLC (Optimal Blue)" : {
+    "Seller": "Tradition Mortgage LLC",
+    "Mappedto": "Tradition_Mtge",
+    "Seller ID": "210",
+    "Channel": "11289",
+    "Third Party": "Resitrader"
+    },
+    "150" : {
+    "Seller": "Triumph Mortgage",
+    "Mappedto": "Triumph_Mtge",
+    "Seller ID": "212",
+    "Channel": "10141",
+    "Third Party": "MCT"
+    },
+    "The Union Bank Company (Optimal Blue)" : {
+    "Seller": "Union Bank Company",
+    "Mappedto": "Union_Bank_Company",
+    "Seller ID": "200",
+    "Channel": "30251",
+    "Third Party": "Resitrader"
+    },
+    "248" : {
+    "Seller": "United Home Loans",
+    "Mappedto": "United_Home_Loans",
+    "Seller ID": "200",
+    "Channel": "12310",
+    "Third Party": "MCT"
+    },
+    "80" : {
+    "Seller": "UNIVERSAL MORTGAGE & FINANCE INC",
+    "Mappedto": "Universal",
+    "Seller ID": "210",
+    "Channel": "23756",
+    "Third Party": "MCT"
+    },
+    "Universal Lending Corp. (Optimal Blue)" : {
+    "Seller": "Universal Lending Corp",
+    "Mappedto": "Universal_Lending_Corp",
+    "Seller ID": "210",
+    "Channel": "23385",
+    "Third Party": "Resitrader"
+    },
+    "29" : {
+    "Seller": "US Mortgage Corp",
+    "Mappedto": "US_Mtge",
+    "Seller ID": "200",
+    "Channel": "12181",
+    "Third Party": "MCT"
+    },
+    "Utah Community FCU (Optimal Blue)" : {
+    "Seller": "Utah Community Federal Credit Union",
+    "Mappedto": "Utah_Community_FCU",
+    "Seller ID": "212",
+    "Channel": "30136",
+    "Third Party": "Resitrader"
+    },
+    "284" : {
+    "Seller": "Vanderbilt Mortgage and Finance, Inc.",
+    "Mappedto": "Vanderbilt_Mtge",
+    "Seller ID": "212",
+    "Channel": "30217",
+    "Third Party": "MCT"
+    },
+    "356" : {
+    "Seller": "Veritas Funding",
+    "Mappedto": "Veritas",
+    "Seller ID": "211",
+    "Channel": "23766",
+    "Third Party": "MCT"
+    },
+    "65" : {
+    "Seller": "Victorian Finance",
+    "Mappedto": "Victorian_Finance",
+    "Seller ID": "200",
+    "Channel": "12693",
+    "Third Party": "MCT"
+    },
+    "108" : {
+    "Seller": "V.I.P. Mortgage, Inc.",
+    "Mappedto": "VIP",
+    "Seller ID": "212",
+    "Channel": "12430",
+    "Third Party": "MCT"
+    },
+    "299" : {
+    "Seller": "Vision One Mortgage, Inc.",
+    "Mappedto": "Vision_One_Mortgage",
+    "Seller ID": "210",
+    "Channel": "12102",
+    "Third Party": "MCT"
+    },
+    "West Coast Mortgage Group (Optimal Blue)" : {
+    "Seller": "WestCoast Mortgage Group and Realty Company",
+    "Mappedto": "West_Coast",
+    "Seller ID": "200",
+    "Channel": "30019",
+    "Third Party": "Resitrader"
+    },
+    "WestStar Mortgage Corp. (Optimal Blue)" : {
+    "Seller": "Weststar Mortgage Corp",
+    "Mappedto": "Weststar_Mtge_Corp",
+    "Seller ID": "212",
+    "Channel": "11247",
+    "Third Party": "Resitrader"
+    },
+    "410" : {
+    "Seller": "Fidelity Lending Solutions, Inc. dba Wholesale Mortgage Bankers",
+    "Mappedto": "Wholesale_Mortgage_Bankers",
+    "Seller ID": "215",
+    "Channel": "30453",
+    "Third Party": "MCT"
+    },
+    "801" : {
+    "Seller": "William Raveis Mortgage",
+    "Mappedto": "William_Raveis_Mtge",
+    "Seller ID": "212",
+    "Channel": "12378",
+    "Third Party": "MCT"
+    },
+    "Wilson Bank & Trust (Optimal Blue)" : {
+    "Seller": "Wilson Bank & Trust",
+    "Mappedto": "Wilson_Bank",
+    "Seller ID": "210",
+    "Channel": "22340",
+    "Third Party": "Resitrader"
+    },
+    "Wolfe Financial, Inc. DBA Integrity Mortgage Group" : {
+    "Seller": "Wolfe Financial Inc dba Integrity Mortgage Group",
+    "Mappedto": "Wolfe_Financial",
+    "Seller ID": "210",
+    "Channel": "30065",
+    "Third Party": "Resitrader"
+    },
+    "270" : {
+    "Seller": "Wilmington Savings Fund Society dba Array Financial",
+    "Mappedto": "WSFS",
+    "Seller ID": "212",
+    "Channel": "12943",
+    "Third Party": "MCT"
+    },
+    "York Traditions Bank" : {
+    "Seller": "York Traditions Bank",
+    "Mappedto": "York",
+    "Seller ID": "210",
+    "Channel": "12711",
+    "Third Party": "Resitrader",
+    }
+}
+    
