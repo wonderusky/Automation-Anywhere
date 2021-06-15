@@ -1,0 +1,1241 @@
+{
+    "MCT" : {
+    "Condo" : "Condo",
+    "LR Condo" : "Condo",
+    "HR Condo" : "Condo",
+    "HighRise Condo" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "DetachedCondo" : "Detached",
+    "4 units" : "Attached",
+    "PUD" : "PUD",
+    "Co-Op" : "Co-Op",
+    "MH" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "Resitrader" : {
+    "Condo" : "Condo",
+    "Condo-HR" : "Condo",
+    "Detached Condo" : "Condo",
+    "SFD" : "SFR",
+    "Detached 2 Unit" : "Detached",
+    "Detached 3 Unit" : "Detached",
+    "Detached 2-4 Unit" : "Detached",
+    "Detached 4 Unit" : "Detached",
+    "Attached" : "Attached",
+    "Attached 2 Unit" : "Attached",
+    "2-4 Unit" : "Attached",
+    "Attached 3 Unit" : "Attached",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Co-Op" : "Co-Op",
+    "Manufactured" : "MFG",
+    "Manufactured - Multi Wide" : "MFG",
+    "Manufactured - Single Wide" : "MFG"
+    },
+    "Optimal_Blue" : {
+    "Condo" : "Condo",
+    "Single Family" : "SFR",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Co-Op" : "Co-Op",
+    "Manufactured/Double-wide" : "MFG"
+    },
+    "Southern_Trust" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Condo" : "Condo",
+    "Single Family" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "ManufacturedHomeCondoPUDCoOp" : "MFG",
+    "Manufactured/Double-wide" : "MFG"
+    },
+    "CUMA" : {
+    "Condo 9+" : "Condo",
+    "Condo 1-4" : "Condo",
+    "Condo 5-8" : "Condo",
+    "SFR" : "SFR",
+    "2 Units" : "Detached",
+    "PUD" : "PUD",
+    "TH" : "PUD"
+    },
+    "Shadow" : {
+    "Detached condo" : "Condo",
+    "High Rise Condo (> 4 stories)" : "Condo",
+    "Condo" : "Condo",
+    "Low Rise Condo" : "Condo",
+    "SFR" : "SFR",
+    "SFD" : "SFR",
+    "1 Unit" : "SFR",
+    "Detached" : "Detached",
+    "Detached SFR " : "Detached",
+    "2 - Unit" : "Attached",
+    "Attached" : "Attached",
+    "2-4UNITS" : "Attached",
+    "Attached (non condo)" : "Attached",
+    "Detached PUD" : "PUD",
+    "Attached (PUD)" : "PUD",
+    "PUD" : "PUD",
+    "MH" : "MFG",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured" : "MFG",
+    "ManufacturedHomeCondoPUDCoOp" : "MFG"
+    },
+    "Eagle_Bank" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "DetachedCondo" : "Detached",
+    "PUDAttached" : "PUD"
+    },
+    "Guaranteed_Rate" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "COOP" : "Co-Op",
+    "Manufactured" : "MFG"
+    },
+    "Am_Pac_Mtge" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "PUD" : "PUD",
+    "MANUF" : "MFG"
+    },
+    "George_Mason" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached",
+    "PUD" : "PUD"
+    },
+    "WVB" : {
+    "Condominium" : "Condo",
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured" : "MFG",
+    "ManufacturedHomeCondoPUDCoOp" : "MFG"
+    },
+    "First_State_Bank" : {
+    "CONDO" : "Condo",
+    "HIGH RISE CONDO" : "Condo",
+    "Single Family Dwelling" : "SFR",
+    "DETACHED" : "Detached",
+    "DETACHED-CONDO" : "Detached",
+    "DETACHED CONDO" : "Detached",
+    "Two-to-Four-Unit Property" : "Detached",
+    "ATTACHED" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Harbor_One_Mtge" : {
+    "Condo-Low" : "Condo",
+    "Condo-Mid" : "Condo",
+    "Condo-High" : "Condo",
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Condo - Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Bell_Bank_Mtge" : {
+    "Condo" : "Condo",
+    "Condominium" : "Condo",
+    "High Rise Condominium" : "Condo",
+    "Single Family" : "SFR",
+    "Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured Housing" : "MFG"
+    },
+    "Megastar_Financial" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Manufactured" : "MFG"
+    },
+    "Home_Services" : {
+    "CONDO" : "Condo",
+    "Condominium" : "Condo",
+    "SFD" : "SFR",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "MANUF" : "MFG",
+    "ManufacturedHousing" : "MFG"
+    },
+    "First_Security_WA" : {
+    "C" : "Condo",
+    "D" : "Detached",
+    "DC" : "Detached",
+    "A" : "Attached",
+    "P" : "PUD",
+    "MFH" : "MFG"
+    },
+    "Bank_of_Utah" : {
+    "CONDO" : "Condo",
+    "SFR" : "SFR",
+    "2 UNIT" : "Detached",
+    "3 UNIT" : "Detached",
+    "4 UNIT" : "Detached",
+    "DETATCHED" : "Detached",
+    "PUD" : "PUD",
+    "TOWNHOUSE" : "PUD",
+    "MANUFACTURED HOUSING" : "MFG"
+    },
+    "All_Western_Mtge" : {
+    "Condo" : "Condo",
+    "Single Family" : "SFR",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured/Double-wide" : "MFG",
+    "Manufactured Double Wide" : "MFG"
+    },
+    "Apex_Home_Loans" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHomeCondoPUDCoOp" : "MFG",
+    "ManufacturedHousing" : "MFG"
+    },
+    "First_Colony_Mtge" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "The_Mortgage_Co" : {
+    "Condo" : "Condo",
+    "Condo - Mid Rise" : "Condo",
+    "SFD" : "SFR",
+    " SFD " : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    " PUD " : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "Waterstone_Mtge" : {
+    "CONDO" : "Condo",
+    "SFR" : "SFR",
+    "2 UNIT" : "Detached",
+    "3 UNIT" : "Detached",
+    "4 UNIT" : "Detached",
+    "DetachedCondo" : "Detached",
+    "PUD" : "PUD",
+    "TOWNHOUSE" : "PUD"
+    },
+    "Service_First_Mtge" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "2-4UNITS" : "Detached",
+    "3-4UNITS" : "Detached",
+    "PUD" : "PUD",
+    "MANUF" : "MFG"
+    },
+    "First_Continental_Mtge" : {
+    "CONDO" : "Condo",
+    "Condominium" : "Condo",
+    "DETACHED" : "Detached",
+    "DetachedCondo" : "Detached",
+    "DETACHED-CONDO" : "Detached",
+    "ATTACHED" : "Attached",
+    "PUD" : "PUD",
+    "MANUFACTURED - DOUBLE WIDE" : "MFG",
+    "ManufacturedHousing" : "MFG"
+    },
+    "HomeAmerican_Mtge" : {
+    "CONDO" : "Condo",
+    "SFR" : "SFR",
+    "Detached Condo" : "Detached",
+    "PUD" : "PUD"
+    },
+    "New_America_Financial" : {
+    "Condominium" : "Condo",
+    "CONDO" : "Condo",
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "SingleFamily" : "SFR",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "MultiFamily" : "Attached",
+    "PUD" : "PUD",
+    "TH" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "MANUF" : "MFG",
+    "ManufacturedDouble" : "MFG"
+    },
+    "Homeside_Financial" : {
+    "Condo" : "Condo",
+    "CONDO" : "Condo",
+    "Condominium" : "Condo",
+    "Single Family" : "SFR",
+    "SFD" : "SFR",
+    "1 Unit Detached" : "Detached",
+    "1 Unit Attached" : "Attached",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured/Double-wide" : "MFG",
+    "MANUF" : "MFG"
+    },
+    "SecurityNational_Mtge" : {
+    "Condo" : "Condo",
+    "Condo-Attached" : "Condo",
+    "Condominium" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "PUDAttached" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "ManufacturedHous" : "MFG",
+    "Manufactured" : "MFG",
+    "ManufacturedHome" : "MFG"
+    },
+    "InterLinc_Mtge" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "Peoples_Bank" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR"
+    },
+    "First_Commonwealth_Bank" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached"
+    },
+    "Angel_Oak_HL" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "First_Heritage_Mtge" : {
+    "Condo" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached"
+    },
+    "Intercoastal_Mtge" : {
+    "Condo" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "Manufactured" : "MFG"
+    },
+    "Mortgage_One" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG",
+    "ManufacturedHome" : "MFG"
+    },
+    "Reliance_First_Capital" : {
+    "Condominium Attached" : "Condo",
+    "SINGLE FAMILY" : "SFR",
+    "2-4 UNIT FAMILY" : "Detached",
+    "Condominium Detached" : "Detached",
+    "PUD" : "PUD",
+    "ManufacturedMobileHome" : "MFG"
+    },
+    "Supreme_Lending" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "RealFi" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "1 Unit" : "SFR",
+    "Detached 2 Unit" : "Detached",
+    "Detached 3 Unit" : "Detached",
+    "Attached" : "Attached",
+    "Attached 2 Unit" : "Attached",
+    "2-4UNITS" : "Attached",
+    "PUD" : "PUD",
+    "COOP" : "Co-Op",
+    "Manufactured" : "MFG"
+    },
+    "Ruoff_Mtge" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "Bremer_Bank" : {
+    "Condo" : "Condo",
+    "Single Family" : "SFR",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured/Double-wide" : "MFG"
+    },
+    "Town_Square_Mtge" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "Hamilton_Group_Funding" : {
+    "Condo" : "Condo",
+    "Condominium" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured Housing" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "United_Mortgage" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "CrossCountry_Mtge" : {
+    "Condo" : "Condo",
+    "High RiseCondo" : "Condo",
+    "SFD" : "SFR",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Cooperative" : "Co-Op",
+    "Manufactured" : "MFG"
+    },
+    "Direct_Mtge_Corp" : {
+    "Condo - Low Rise to 4 stories" : "Condo",
+    "Single Family Residence - Detached" : "Detached",
+    "4 Unit Owner Occupied" : "Detached",
+    "Single Family Residence - Attached" : "Attached",
+    "PUD – Detached (Planned Unit Development)" : "PUD",
+    "PUD – Attached (Planned Unit Development)" : "PUD"
+    },
+    "Assurance_Financial" : {
+    "CONDO" : "Condo",
+    "CONDOHR" : "Condo",
+    "SFD" : "SFR",
+    "PUD" : "PUD",
+    "TH" : "PUD",
+    "MANUF" : "MFG"
+    },
+    "First_Home_Mtge" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "Condo-Detached" : "Condo",
+    "SFR" : "SFR",
+    "4 Unit" : "Attached",
+    "2 Unit" : "Attached",
+    "3 Unit" : "Attached",
+    "COOP" : "Co-Op",
+    "ManufacturedHousing" : "MFG"
+    },
+    "Evergreen_HL" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "Primary_Residential_Mtge" : {
+    "Condominium" : "Condo",
+    "1 Unit" : "Detached",
+    "Detached Condominium" : "Detached",
+    "2-4 Units" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Housing Multiwide" : "MFG"
+    },
+    "Panorama" : {
+    "Condominium" : "Condo",
+    "HighRise Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Detached" : "Detached",
+    "Detached Condominium" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Housing Single Wide" : "MFG",
+    "ManufacturedHousing" : "MFG"
+    },
+    "Cherry_Creek_Mtge" : {
+    "CONDO" : "Condo",
+    "SFR Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "2-4 Units" : "Detached",
+    "SFR Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Housing" : "MFG"
+    },
+    "Trident_Mtge" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "2-4UNITS" : "Detached"
+    },
+    "Tidewater_Mtge" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "Detached Modular" : "MFG",
+    "Manufactured Housing" : "MFG"
+    },
+    "WesBanco_Bank" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached",
+    "2 Unit" : "Attached",
+    "3 Unit" : "Attached"
+    },
+    "K_Hovnanian_American_Mtge" : {
+    "Condo" : "Condo",
+    "PUD" : "PUD"
+    },
+    "TowneBank_Mtge" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached"
+    },
+    "Ony_Glo" : {
+    "Condo" : "Condo",
+    "LR Condo" : "Condo",
+    "SFR" : "SFR",
+    "Detached Condo" : "Detached",
+    "PUD" : "PUD"
+    },
+    "OnQ_Financial" : {
+    "Condominium" : "Condo",
+    "Condo" : "Condo",
+    "Condo-HI" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "DetachedCondo" : "Detached",
+    "COOP" : "Co-Op",
+    "Manufactured" : "MFG"
+    },
+    "Washington_Trust_Mtge" : {
+    "Condo" : "Condo",
+    "Single Family" : "SFR",
+    "1 Unit" : "SFR",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured/Double-wide" : "MFG"
+    },
+    "Washington_Trust_Co_Westerly         " : {
+    "Condo" : "Condo",
+    "Single Family" : "SFR",
+    "1 Unit" : "SFR",
+    "PUD" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured/Double-wide" : "MFG"
+    },
+    "Congressional_Bank" : {
+    "Condo" : "Condo",
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "NBH_Bank" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Summit_Mtge_Bankers" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    " Condominium " : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    " Detached " : "Detached",
+    " DetachedCondo " : "Detached",
+    "Attached" : "Attached",
+    " Attached " : "Attached",
+    "PUD" : "PUD",
+    " PUD " : "PUD",
+    "Cooperative" : "Co-Op"
+    },
+    "Planet_Home_Lending" : {
+    "COND" : "Condo",
+    "Condominium" : "Condo",
+    "HIGHRISE" : "Condo",
+    "DETACHED" : "Detached",
+    "DetachedCondo" : "Detached",
+    "ATTACHED" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "Homesite_Mtge" : {
+    "Condominium" : "Condo",
+    " Condo " : "Condo",
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Detached" : "Detached",
+    "Detached Condominium" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    " PUD " : "PUD"
+    },
+    "Integrity_Home_Mtge" : {
+    "Condominium" : "Condo",
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "1 Unit" : "SFR",
+    "1 Unit Detached" : "Detached",
+    "Detached" : "Detached",
+    "2 Unit Detached" : "Detached",
+    "PUD Detached" : "Detached",
+    "1 Unit Attached" : "Attached",
+    "2 Unit Attached" : "Attached",
+    "PUD" : "PUD",
+    "1 Unit PUD" : "PUD",
+    "Manufactured Housing Single Wide" : "MFG",
+    "Manufactured Housing" : "MFG",
+    "ManufacturedHousing" : "MFG",
+    "Manufactured Housing Multiwide" : "MFG"
+    },
+    "AmCap_Mortgage" : {
+    "Condo" : "Condo",
+    "CONDO" : "Condo",
+    "Single Family" : "SFR",
+    "SFD" : "SFR",
+    "PUD" : "PUD",
+    "TH" : "PUD",
+    "Manufactured/Double-wide" : "MFG",
+    "MANUF" : "MFG"
+    },
+    "American_Security_Mtge" : {
+    "Condo" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "SFR" : "SFR",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached"
+    },
+    "Academy_Mtge" : {
+    "Condominium" : "Condo",
+    "Condo" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Unit2To4" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "AMSCO" : {
+    "Condo" : "Condo",
+    "Site Condo" : "Condo",
+    "SFD" : "SFR",
+    "DETACHED CONDO" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "Northern_Mortgage_Services" : {
+    "Condo" : "Condo",
+    "Condo - Hi Rise" : "Condo",
+    "SFD" : "SFR",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "Paramount_Residential" : {
+    "Condo" : "Condo",
+    "Condo - Low Rise" : "Condo",
+    "Condo - High Rise" : "Condo",
+    "SFR" : "SFR",
+    "Condo - Detached" : "Detached",
+    "2-4 Unit Residence" : "Attached",
+    "2-4 Unit Residen" : "Attached",
+    "Planned Unit Development (PUD)" : "PUD",
+    "Manufactured Home" : "MFG"
+    },
+    "The_State_BT" : {
+    " SFD " : "SFR",
+    "SFD" : "SFR"
+    },
+    "NMSI" : {
+    "Condo" : "Condo",
+    "Condo (Attached)" : "Condo",
+    "SFR" : "SFR",
+    "SFR (Attached)" : "SFR",
+    "SFR (Detached)" : "SFR",
+    "2UNIT" : "Detached",
+    "3UNIT" : "Detached",
+    "4UNIT" : "Detached",
+    "Condo (Detached)" : "Detached",
+    "2UNIT (Attached)" : "Attached",
+    "3UNIT (Attached)" : "Attached",
+    "4UNIT (Attached)" : "Attached",
+    "PUD" : "PUD",
+    "PUD (Detached)" : "PUD",
+    "PUD (Attached)" : "PUD",
+    "MH" : "MFG"
+    },
+    "Watermark_HL" : {
+    "Condo" : "Condo",
+    "Condo > 4 Stories" : "Condo",
+    "Condo <= 4 Stories" : "Condo",
+    "Single Family" : "SFR",
+    "1 Unit" : "SFR",
+    "2 Unit" : "Detached",
+    "4 Unit" : "Detached",
+    "3 Unit" : "Detached",
+    "PUD - Attached" : "PUD",
+    "PUD - Detached" : "PUD",
+    "Townhouse" : "PUD",
+    "Manufactured/Double-wide" : "MFG",
+    "Manufactured Home" : "MFG"
+    },
+    "Residential_Wholesale_Mtge" : {
+    "Condominium" : "Condo",
+    "1 Unit" : "SFR",
+    "2-4 Units" : "Detached",
+    "Detached Condominium" : "Detached",
+    "PUD" : "PUD",
+    "Manufactured Housing Single Wide" : "MFG",
+    "Manufactured Housing Multiwide" : "MFG"
+    },
+    "Contour_Mtge" : {
+    "Condominium" : "Condo",
+    "Cooperative" : "Condo",
+    "HighRiseCondomin" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHous" : "MFG"
+    },
+    "The_Federal_Savings_Bank" : {
+    "HighRiseCondominium" : "Condo",
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Parkside_Lending" : {
+    "Condo - Attached" : "Condo",
+    "Low Rise Condo" : "Condo",
+    "SFR - Attached" : "SFR",
+    "SFR - Detached" : "SFR",
+    "TwoUnits - Detached" : "Detached",
+    "ThreeUnits - Detached" : "Detached",
+    "FourUnits - Detached" : "Detached",
+    "Condo - Detached" : "Detached",
+    "TwoUnits - Attached" : "Attached",
+    "FourUnits - Attached" : "Attached",
+    "ThreeUnits - Attached" : "Attached",
+    "PUD - Attached" : "PUD",
+    "PUD - Detached" : "PUD",
+    "Manufactured - Detached" : "MFG"
+    },
+    "Compass_Mortgage" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "Alcova_Mortgage" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "Condo-Detached" : "Condo",
+    "SFR" : "SFR",
+    "Attached" : "Attached",
+    "Manufactured" : "MFG"
+    },
+    "Highlands" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "LoanDepot.com" : {
+    "Attached High Rise Condo (9+)" : "Condo",
+    "Attached Low-Rise Condo (1-4)" : "Condo",
+    "Attached Mid Rise Condo (5-8)" : "Condo",
+    "SFR Attached" : "SFR",
+    "SFR Detached" : "SFR",
+    "Detached Condo" : "Detached",
+    "2-4 Unit" : "Detached",
+    "PUD" : "PUD",
+    "Co-op" : "Co-Op",
+    "Manufactured Home" : "MFG",
+    "Modular" : "MFG"
+    },
+    "BNC_National_Bank" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached",
+    "PUD" : "PUD"
+    },
+    "Opportunity_Bank_of_Montana" : {
+    "One-to-fourFamily" : "Detached",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Housing" : "MFG"
+    },
+    "Embrace" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "2 Unit" : "Detached",
+    "3 Unit" : "Detached",
+    "4 Unit" : "Detached",
+    "Townhouse" : "PUD",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "The_Home_Loan_Expert" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "PUD" : "PUD",
+    "Co-Op" : "Co-Op",
+    "MH" : "MFG"
+    },
+    "Thompson_Kane" : {
+    "Condominium" : "Condo",
+    "SFR" : "SFR",
+    "2-4 Units" : "Detached",
+    "Detached" : "Detached",
+    "2 Units" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Platinum_Home_Mtge" : {
+    "Condo 9+" : "Condo",
+    "Condo 1-4" : "Condo",
+    "Condo 5-8" : "Condo",
+    "TH" : "Condo",
+    "SFR" : "SFR",
+    "2 Units" : "Detached",
+    "4 Units" : "Detached",
+    "3 Units" : "Detached",
+    "PUD" : "PUD",
+    "Manufactured Home" : "MFG"
+    },
+    "Premier_Mtge_Resources" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Multiwide" : "MFG"
+    },
+    "Great_Plains" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Freedom" : {
+    "Condominium" : "Condo",
+    "Single Family" : "SFR",
+    "2-4 Family" : "Detached",
+    "Detached Condo" : "Detached",
+    "PUD" : "PUD",
+    "CO-OP" : "Co-Op",
+    "Manufactured Housing" : "MFG"
+    },
+    "Cardinal_Financial" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "DetachedCondo" : "Detached",
+    "Condo-Detached" : "Detached",
+    "De-Condo" : "Detached",
+    "Attached" : "Attached",
+    "Manufactured" : "MFG",
+    "MHMulti" : "MFG"
+    },
+    "Union_Bank_Trust" : {
+    "Condo 9+" : "Condo",
+    "Condo 1-4" : "Condo",
+    "Condo 5-8" : "Condo",
+    "TH" : "Condo",
+    "SFR" : "SFR",
+    "3 Units" : "Detached",
+    "4 Units" : "Detached",
+    "2 Units" : "Detached",
+    "PUD" : "PUD"
+    },
+    "The_Equitable_Mtge" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "FBC_Mortgage" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached",
+    "PUDAttached" : "PUD",
+    "Manufactured" : "MFG",
+    "ManufacturedHome" : "MFG"
+    },
+    "BM_Real_Estate" : {
+    "Condo (Low Rise) (Attached)" : "Condo",
+    "Condo-Attached" : "Condo",
+    "Condo (High Rise >4 stories) (At" : "Condo",
+    "SFR" : "SFR",
+    "Single Family Residence (Detached)" : "SFR",
+    "Detached Condo" : "Detached",
+    "Condo-Detached" : "Detached",
+    "Single Family Residence (Attached)" : "Attached",
+    "PUD-Detached" : "PUD",
+    "PUD" : "PUD",
+    "Manufactured Home" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "First_BT" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "PUD" : "PUD",
+    "TH" : "PUD"
+    },
+    "Sun_West" : {
+    "CONDO" : "Condo",
+    "SINGLE FAMILY RESIDENCE (1 UNIT)" : "SFR",
+    "CONDO SITE (SITE-DETACHED)" : "Detached",
+    "DUPLEX (2 UNITS)" : "Attached",
+    "TRIPLEX (3 UNITS)" : "Attached",
+    "QUADPLEX (4 UNITS)" : "Attached",
+    "TOWNHOME" : "Attached",
+    "PUD" : "PUD",
+    "MANUFACTURED HOUSING" : "MFG"
+    },
+    "Total_Mtge" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG"
+    },
+    "Summit_Funding" : {
+    "CONDO" : "Condo",
+    "SFR" : "SFR",
+    "PUD" : "PUD"
+    },
+    "Top_Flite" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG"
+    },
+    "MLD_Moneystore" : {
+    "Condo" : "Condo",
+    "SingleFamily" : "SFR",
+    "MultiFamily" : "Detached",
+    "Townhouse" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedSingle" : "MFG",
+    "ManufacturedDouble" : "MFG"
+    },
+    "Alpine" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Residential_Bancorp" : {
+    "Condominium" : "Condo",
+    "High Rise Condo" : "Condo",
+    "Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Multiwide" : "MFG",
+    "Manufactured Singlewide" : "MFG",
+    "Manufactured" : "MFG"
+    },
+    "Southpoint_Bank" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Leader_Bank" : {
+    "Condominium" : "Condo",
+    "1 Unit" : "Detached",
+    "Detached Condominium" : "Detached",
+    "2-4 Units" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Mason_Mac" : {
+    "Condo 1-4" : "Condo",
+    "SFR" : "SFR",
+    "2 Units" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Home" : "MFG"
+    },
+    "Capstone_Direct" : {
+    "Condominium" : "Condo",
+    "SFR" : "SFR",
+    "Detached" : "Detached",
+    "Detached Condominium" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "First_Savings" : {
+    "CONDO 1-4" : "Condo",
+    "CONDO >8" : "Condo",
+    "SFD" : "SFR",
+    "PUD" : "PUD"
+    },
+    "Vellum" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR"
+    },
+    "Impac" : {
+    "CONDO" : "Condo",
+    "SFR" : "SFR",
+    "CONDODETACHED" : "Detached",
+    "2-FAMILY" : "Attached",
+    "3-FAMILY" : "Attached",
+    "4-FAMILY" : "Attached",
+    "PUD" : "PUD"
+    },
+    "First_Ohio" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured" : "MFG",
+    "Manufactured Home" : "MFG"
+    },
+    "Banner_Bank" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "PUD" : "PUD",
+    "MANUF" : "MFG"
+    },
+    "Synovus" : {
+    "Low-Rise Condo (1-4)" : "Condo",
+    "High Rise Condo (9+)" : "Condo",
+    "Mid Rise Condo (5-8)" : "Condo",
+    "SFR Detached" : "SFR",
+    "2 Unit" : "Attached",
+    "SFR Attached" : "Attached",
+    "4 Unit" : "Attached",
+    "3 Unit" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Churchill" : {
+    "Condominium" : "Condo",
+    "HighRiseCondominium" : "Condo",
+    "Detached" : "Detached",
+    "DetachedCondo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "ManufacturedHousing" : "MFG",
+    "ManufacturedHomeCondoPUDCoOp" : "MFG"
+    },
+    "Bay_Equity" : {
+    "SFR" : "SFR"
+    },
+    "New_Wave" : {
+    "C" : "Condo",
+    "S" : "SFR",
+    "DC" : "Detached",
+    "2" : "Attached",
+    "4" : "Attached",
+    "3" : "Attached",
+    "P" : "PUD"
+    },
+    "NTFN" : {
+    "Condo" : "Condo",
+    "SFD" : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "MANUFACTURED" : "MFG"
+    },
+    "Ladera" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "2-4UNITS" : "Attached",
+    "TH" : "Attached",
+    "PUD" : "PUD",
+    "COOP" : "Co-Op"
+    },
+    "Sovereign_Lending" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Manufactured" : "MFG"
+    },
+    "McLean" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "ML_Mortgage" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "SFR" : "SFR",
+    "2 Units" : "Attached",
+    "3-4UNITS" : "Attached",
+    "PUD" : "PUD",
+    "PUDAttached" : "PUD",
+    "MANUF" : "MFG"
+    },
+    "Amerifirst" : {
+    "Condo" : "Condo",
+    "Condo-Hi" : "Condo",
+    "SFR" : "SFR",
+    "Manufactured" : "MFG"
+    },
+    "Prosperity_Home_Mtge" : {
+    "Condominium" : "Condo",
+    "Detached" : "Detached",
+    "Detached Condo" : "Detached",
+    "Attached" : "Attached",
+    "PUD" : "PUD",
+    "Manufactured Housing" : "MFG"
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    "Condo" : "Condo",
+    "SingleFamily" : "SFR",
+    "MultiFamily" : "Attached",
+    "PUD" : "PUD"
+    },
+    "Jersey_Mortgage" : {
+    "Condo" : "Condo",
+    "High Rise Condo" : "Condo",
+    "SFD" : "SFR",
+    "Attached" : "Attached",
+    "PUD" : "PUD"
+    },
+    "First_Horizon" : {
+    },
+    "Golden_West" : {
+    "CONDO" : "Condo",
+    "SFD" : "SFR",
+    "TH" : "Attached",
+    "PUD" : "PUD"
+    },
+    "NVR" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached"
+    },
+    "Absolute_Home" : {
+    "Condo" : "Condo",
+    "SingleFamily" : "SFR",
+    "MultiUnit" : "Detached",
+    "MultiFamily" : "Attached",
+    "Townhouse" : "Attached",
+    "PUD" : "PUD",
+    "Mobile" : "MFG"
+    },
+    "Blue_Ridge" : {
+    "SFD" : "SFR",
+    "PUD" : "PUD"
+    },
+    "Neighbors_Bank" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "Condo-Detached" : "Detached"
+    },
+    "Severn" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "PUD" : "PUD"
+    },
+    "Coastal_Carolina" : {
+    "SFD" : "SFR",
+    "PUD" : "PUD"
+    },
+    "Stockton" : {
+    "Condo" : "Condo",
+    "SFR" : "SFR",
+    "COOP" : "Co-Op",
+    "Manufactured" : "MFG"
+    },
+    "DAS_Acquisition_Co" : {
+    "SFD" : "SFR",
+    "PUD" : "PUD",
+    "MANUF" : "MFG"
+    },
+    "RMK_Majestic" : {
+    "Low-Rise Condo" : "Condo",
+    "SFR (Detached)" : "SFR",
+    "SFR (Attached)" : "SFR",
+    "PUD (Attached)" : "PUD",
+    "PUD (Detached)" : "PUD",
+    "Manufactured Home" : "MFG"
+    }
+}
+    
