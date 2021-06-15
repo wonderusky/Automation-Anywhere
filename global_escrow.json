@@ -1,0 +1,625 @@
+{
+    "MCT" : {
+    "Y" : "Not Waived",
+    "Yes" : "Not Waived",
+    "TO" : "Insurance Waived",
+    "N" : "Waived",
+    "No" : "Waived"
+    },
+    "Resitrader" : {
+    "Not Waived" : "Not Waived",
+    "Y" : "Not Waived",
+    "Insurance" : "Insurance Waived",
+    "Waived" : "Waived",
+    "N" : "Waived"
+    },
+    "Optimal_Blue" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Southern_Trust" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "CUMA" : {
+    "FALSE" : "Not Waived",
+    "TRUE" : "Waived"
+    },
+    "Shadow" : {
+    "TRUE" : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "N" : "Not Waived",
+
+    "FALSE" : "Waived",
+    "Waived" : "Waived"
+    },
+    "Eagle_Bank" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Guaranteed_Rate" : {
+    "Taxes and Insurance" : "Not Waived",
+    "N" : "Not Waived",
+    "Tax" : "Taxes Waived",
+    "Insurance only" : "Insurance Waived",
+    "Insurance" : "Insurance Waived",
+    "All" : "Waived"
+    },
+    "Am_Pac_Mtge" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "George_Mason" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "WVB" : {
+    "Not Waived" : "Not Waived",
+    "Y" : "Not Waived",
+    "N" : "Waived",
+    "Waived" : "Waived"
+    },
+    "First_State_Bank" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "Harbor_One_Mtge" : {
+    "No Escrows Waived" : "Not Waived",
+    "Waive Hazard Only" : "Insurance Waived",
+    "Waive Insurance Only" : "Insurance Waived",
+    "All Escrows Waived" : "Waived",
+    "Waive Hazard and Taxes" : "Waived"
+    },
+    "Bell_Bank_Mtge" : {
+    "No" : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived",
+    "Yes" : "Waived"
+    },
+    "Megastar_Financial" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Home_Services" : {
+    "NO" : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived",
+    "YES" : "Waived"
+    },
+    "First_Security_WA" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Bank_of_Utah" : {
+    "Y" : "Not Waived",
+    "No Escrows Waived" : "Not Waived",
+    "N" : "Waived"
+    },
+    "All_Western_Mtge" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Apex_Home_Loans" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "First_Colony_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "The_Mortgage_Co" : {
+    "Not Waived" : "Not Waived",
+    " Not Waived " : "Not Waived",
+    "Waived" : "Waived",
+    " Waived " : "Waived"
+    },
+    "Waterstone_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Service_First_Mtge" : {
+    "NO" : "Not Waived",
+    "NULL" : "Waived",
+    "YES" : "Waived"
+    },
+    "First_Continental_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "N " : "Not Waived",
+    "Waived" : "Waived",
+    "Y" : "Waived"
+    },
+    "HomeAmerican_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "New_America_Financial" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "Homeside_Financial" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "SecurityNational_Mtge" : {
+    "N" : "Not Waived",
+    "Y" : "Waived"
+    },
+    "InterLinc_Mtge" : {
+    "Y" : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Peoples_Bank" : {
+    "N" : "Not Waived",
+    "Tax" : "Taxes Waived"
+    },
+    "First_Commonwealth_Bank" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Angel_Oak_HL" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "First_Heritage_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Intercoastal_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Mortgage_One" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Reliance_First_Capital" : {
+    "No" : "Not Waived",
+    "Taxes Only" : "Taxes Waived",
+    "Insurance Only" : "Insurance Waived",
+    "Yes" : "Waived"
+    },
+    "Supreme_Lending" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "RealFi" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "Ruoff_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Bremer_Bank" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Town_Square_Mtge" : {
+    "Y" : "Not Waived",
+    "YesYes" : "Not Waived",
+    "NoYes" : "Taxes Waived",
+    "YesNo" : "Insurance Waived",
+    "N" : "Waived",
+    "NoNo" : "Waived"
+    },
+    "Hamilton_Group_Funding" : {
+    "Y" : "Not Waived",
+    "Yes" : "Not Waived",
+    "N" : "Waived",
+    "No" : "Waived"
+    },
+    "United_Mortgage" : {
+    "Not Waived" : "Not Waived"
+    },
+    "CrossCountry_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Direct_Mtge_Corp" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "Assurance_Financial" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "First_Home_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Evergreen_HL" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Primary_Residential_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Panorama" : {
+    "No" : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Cherry_Creek_Mtge" : {
+    "YES" : "Not Waived",
+    "NO" : "Waived"
+    },
+    "Trident_Mtge" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "Tidewater_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "WesBanco_Bank" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "K_Hovnanian_American_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "TowneBank_Mtge" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Ony_Glo" : {
+    "Taxes/Insurance" : "Not Waived",
+    "None" : "Waived"
+    },
+    "OnQ_Financial" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    "N" : "Not Waived",
+    "Tax" : "Taxes Waived",
+    "Insurance" : "Insurance Waived",
+    "All" : "Waived"
+    },
+    "Washington_Trust_Mtge" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived",
+    "Waived" : "Waived"
+    },
+    "Washington_Trust_Co_Westerly         " : {
+    "No" : "Not Waived",
+    "Yes" : "Waived",
+    "Waived" : "Waived"
+    },
+    "Congressional_Bank" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "NBH_Bank" : {
+    "N" : "Not Waived",
+    "Y" : "Waived",
+    "Y " : "Waived"
+    },
+    "Summit_Mtge_Bankers" : {
+    "No" : "Not Waived",
+    " No " : "Not Waived",
+    "Yes" : "Waived",
+    " Yes " : "Waived"
+    },
+    "Planet_Home_Lending" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Homesite_Mtge" : {
+    "NO" : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "YES" : "Waived",
+    "Waived" : "Waived"
+    },
+    "Integrity_Home_Mtge" : {
+    "Escrow (T&I)" : "Not Waived",
+    "YES" : "Not Waived",
+    "No" : "Not Waived"
+    },
+    "AmCap_Mortgage" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "American_Security_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Insurance Waived"
+    },
+    "Academy_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "N" : "Not Waived",
+    "Waived" : "Waived",
+    "Y" : "Waived"
+    },
+    "AMSCO" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Northern_Mortgage_Services" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Paramount_Residential" : {
+    "0" : "Not Waived",
+    "1" : "Waived"
+    },
+    "The_State_BT" : {
+    " Not Waived " : "Not Waived",
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "NMSI" : {
+    "Y" : "Not Waived",
+    "TI" : "Not Waived",
+    "Taxes" : "Insurance Waived",
+    "T" : "Insurance Waived",
+    "N" : "Waived"
+    },
+    "Watermark_HL" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived",
+    "Waived" : "Waived"
+    },
+    "Residential_Wholesale_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Not Waiv" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Contour_Mtge" : {
+    "N" : "Not Waived",
+    "All" : "Waived"
+    },
+    "The_Federal_Savings_Bank" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Parkside_Lending" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "Compass_Mortgage" : {
+    "N" : "Not Waived",
+    "Ins" : "Insurance Waived",
+    "Y" : "Waived"
+    },
+    "Alcova_Mortgage" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Highlands" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "LoanDepot.com" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "BNC_National_Bank" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Opportunity_Bank_of_Montana" : {
+    "Yes" : "Not Waived"
+    },
+    "Embrace" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "The_Home_Loan_Expert" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Thompson_Kane" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Platinum_Home_Mtge" : {
+    "FALSE" : "Not Waived",
+    "TRUE" : "Waived"
+    },
+    "Premier_Mtge_Resources" : {
+    "Not Waived" : "Not Waived",
+    "Waive Insurance Only" : "Insurance Waived",
+    "Waive Both" : "Waived"
+    },
+    "Great_Plains" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Freedom" : {
+    "N" : "Not Waived",
+    "Y" : "Waived"
+    },
+    "Cardinal_Financial" : {
+    "Y" : "Not Waived",
+    "Yes" : "Not Waived",
+    "No" : "Waived",
+    "N" : "Waived"
+    },
+    "Union_Bank_Trust" : {
+    "FALSE" : "Not Waived",
+    "TRUE" : "Waived"
+    },
+    "The_Equitable_Mtge" : {
+    "YesYes" : "Not Waived",
+    "NoYes" : "Taxes Waived",
+    "YesNo" : "Insurance Waived",
+    "NoNo" : "Waived",
+    "NoSome" : "Waived"
+    },
+    "FBC_Mortgage" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "BM_Real_Estate" : {
+    "Both" : "Not Waived",
+    "Taxes Only" : "Insurance Waived",
+    "No Impounds" : "Waived"
+    },
+    "First_BT" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "Sun_West" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "Total_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Summit_Funding" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Top_Flite" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "MLD_Moneystore" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "Alpine" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Residential_Bancorp" : {
+    "Not Waived" : "Not Waived",
+    "Waive Both" : "Waived"
+    },
+    "Southpoint_Bank" : {
+    "Not Waived" : "Not Waived",
+    "No" : "Not Waived",
+    "Y" : "Not Waived",
+    "Waived" : "Waived",
+    "N" : "Waived"
+    },
+    "Leader_Bank" : {
+    "Taxes and Insurance" : "Not Waived",
+    "Insurance Only" : "Taxes Waived",
+    "Taxes Only" : "Insurance Waived",
+    "No Impounds" : "Waived"
+    },
+    "Mason_Mac" : {
+    "FALSE" : "Not Waived",
+    "TRUE" : "Waived"
+    },
+    "Capstone_Direct" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "First_Savings" : {
+    "Full" : "Not Waived"
+    },
+    "Vellum" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Impac" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "First_Ohio" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Banner_Bank" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "Synovus" : {
+    "N" : "Not Waived",
+    "NULL" : "Not Waived",
+    "Y" : "Waived"
+    },
+    "Churchill" : {
+    "N" : "Not Waived",
+    "Y" : "Waived"
+    },
+    "Bay_Equity" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "New_Wave" : {
+    "N" : "Not Waived",
+    "Y" : "Waived"
+    },
+    "NTFN" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "Ladera" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "Sovereign_Lending" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "McLean" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "ML_Mortgage" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Amerifirst" : {
+    "N" : "Not Waived",
+    "All" : "Waived"
+    },
+    "Prosperity_Home_Mtge" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    "No" : "Not Waived",
+    "Yes" : "Waived"
+    },
+    "Jersey_Mortgage" : {
+    "Not Waived" : "Not Waived",
+    "Waived" : "Waived"
+    },
+    "First_Horizon" : {
+    },
+    "Golden_West" : {
+    "NO" : "Not Waived",
+    "YES" : "Waived"
+    },
+    "NVR" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Absolute_Home" : {
+    "Yes" : "Not Waived",
+    "No" : "Waived"
+    },
+    "Blue_Ridge" : {
+    "NO" : "Not Waived"
+    },
+    "Neighbors_Bank" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Severn" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    },
+    "Coastal_Carolina" : {
+    "NO" : "Not Waived"
+    },
+    "Stockton" : {
+    "N" : "Not Waived",
+    "Y" : "Waived"
+    },
+    "DAS_Acquisition_Co" : {
+    "NO" : "Not Waived"
+    },
+    "RMK_Majestic" : {
+    "Y" : "Not Waived",
+    "N" : "Waived"
+    }
+}    
