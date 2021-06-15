@@ -1,0 +1,449 @@
+{
+    "MCT" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Resitrader" : {
+    "801-Property Inspection Waiver (PIW)" : "Y",
+    "007-Limited Cash-Out/No Cash-Out Refinance,801-Property Inspection Waiver (PIW)" : "Y",
+    "003-Cash-Out Refinance,801-Property Inspection Waiver (PIW)" : "Y"
+    },
+    "Optimal_Blue" : {
+    "Yes" : "Y"
+    },
+    "Southern_Trust" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "CUMA" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Shadow" : {
+    "N" : "N",
+    "false" : "N",
+    "Y" : "Y"
+    },
+    "Eagle_Bank" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Guaranteed_Rate" : {
+    },
+    "Am_Pac_Mtge" : {
+    "DU PIW" : "Y",
+    "LP PIW" : "Y"
+    },
+    "George_Mason" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "WVB" : {
+    "PIW" : "Y"
+    },
+    "First_State_Bank" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Harbor_One_Mtge" : {
+    },
+    "Bell_Bank_Mtge" : {
+    },
+    "Megastar_Financial" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Home_Services" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "First_Security_WA" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Bank_of_Utah" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "All_Western_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Apex_Home_Loans" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "First_Colony_Mtge" : {
+    },
+    "The_Mortgage_Co" : {
+    "No" : "N",
+    "N" : "N",
+    "Yes" : "Y",
+    "Y" : "Y"
+    },
+    "Waterstone_Mtge" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Service_First_Mtge" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "First_Continental_Mtge" : {
+    },
+    "HomeAmerican_Mtge" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "New_America_Financial" : {
+    },
+    "Homeside_Financial" : {
+    },
+    "SecurityNational_Mtge" : {
+    "N/A" : "N",
+    "FHLMC Automated Collateral Evaluation" : "N",
+    "FNMA Property Inspection Waiver" : "Y"
+    },
+    "InterLinc_Mtge" : {
+    },
+    "Peoples_Bank" : {
+    },
+    "First_Commonwealth_Bank" : {
+    },
+    "Angel_Oak_HL" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "First_Heritage_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Intercoastal_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Mortgage_One" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Reliance_First_Capital" : {
+    },
+    "Supreme_Lending" : {
+    },
+    "RealFi" : {
+    "801-Property Inspection Waiver (PIW)" : "Y"
+    },
+    "Ruoff_Mtge" : {
+    },
+    "Bremer_Bank" : {
+    "Yes" : "Y"
+    },
+    "Town_Square_Mtge" : {
+    },
+    "Hamilton_Group_Funding" : {
+    },
+    "United_Mortgage" : {
+    },
+    "CrossCountry_Mtge" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Direct_Mtge_Corp" : {
+    },
+    "Assurance_Financial" : {
+    "Form 1004 appraisal with interior/exterior" : "N",
+    "No appraisal/inspection obtained" : "Y"
+    },
+    "First_Home_Mtge" : {
+    "801-Property Inspection Waiver (PIW)" : "Y"
+    },
+    "Evergreen_HL" : {
+    "Property Inspection Alternative" : "Y",
+    "Property Inspection Waiver" : "Y"
+    },
+    "Primary_Residential_Mtge" : {
+    "Y" : "Y"
+    },
+    "Panorama" : {
+    "801" : "Y"
+    },
+    "Cherry_Creek_Mtge" : {
+    "PIW" : "Y"
+    },
+    "Trident_Mtge" : {
+    },
+    "Tidewater_Mtge" : {
+    "N/A" : "N",
+    "PIW" : "Y"
+    },
+    "WesBanco_Bank" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "K_Hovnanian_American_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "TowneBank_Mtge" : {
+    },
+    "Ony_Glo" : {
+    },
+    "OnQ_Financial" : {
+    "X" : "Y"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    },
+    "Washington_Trust_Mtge" : {
+    "Yes" : "Y"
+    },
+    "Washington_Trust_Co_Westerly         " : {
+    "Yes" : "Y"
+    },
+    "Congressional_Bank" : {
+    },
+    "NBH_Bank" : {
+    },
+    "Summit_Mtge_Bankers" : {
+    },
+    "Planet_Home_Lending" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Homesite_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Integrity_Home_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "AmCap_Mortgage" : {
+    },
+    "American_Security_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "AMSCO" : {
+    "N" : "N",
+    "No" : "N",
+    "Y" : "Y",
+    "Yes" : "Y"
+    },
+    "Northern_Mortgage_Services" : {
+    "No" : "N",
+    "N" : "N",
+    "Yes" : "Y",
+    "Y" : "Y"
+    },
+    "Paramount_Residential" : {
+    "Y" : "Y"
+    },
+    "The_State_BT" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "NMSI" : {
+    "NO PIW" : "N",
+    "PIW" : "Y"
+    },
+    "Watermark_HL" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Residential_Wholesale_Mtge" : {
+    "Y" : "Y"
+    },
+    "Contour_Mtge" : {
+    },
+    "The_Federal_Savings_Bank" : {
+    },
+    "Parkside_Lending" : {
+    "SmallResidentialIncomePropertyAppraisalReport" : "N",
+    "UniformResidentialAppraisalReport" : "N",
+    "IndividualCondominiumUnitAppraisalReport" : "N",
+    "PIW/ACE" : "Y"
+    },
+    "Compass_Mortgage" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Alcova_Mortgage" : {
+    "N" : "N",
+    "X" : "Y"
+    },
+    "Highlands" : {
+    },
+    "LoanDepot.com" : {
+    },
+    "BNC_National_Bank" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Opportunity_Bank_of_Montana" : {
+    },
+    "Embrace" : {
+    },
+    "The_Home_Loan_Expert" : {
+    },
+    "Thompson_Kane" : {
+    },
+    "Platinum_Home_Mtge" : {
+    "No" : "N",
+    "N" : "N",
+    "Yes" : "Y",
+    "Y" : "Y"
+    },
+    "Premier_Mtge_Resources" : {
+    },
+    "Great_Plains" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Freedom" : {
+    },
+    "Cardinal_Financial" : {
+    },
+    "Union_Bank_Trust" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "The_Equitable_Mtge" : {
+    "PIW" : "Y"
+    },
+    "FBC_Mortgage" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "BM_Real_Estate" : {
+    "False" : "N",
+    "True" : "Y"
+    },
+    "First_BT" : {
+    "Y" : "Y"
+    },
+    "Sun_West" : {
+    },
+    "Total_Mtge" : {
+    },
+    "Summit_Funding" : {
+    },
+    "Top_Flite" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "MLD_Moneystore" : {
+    "801-Property Inspection Waiver (PIW)" : "Y"
+    },
+    "Alpine" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Residential_Bancorp" : {
+    },
+    "Southpoint_Bank" : {
+    "Y" : "Y"
+    },
+    "Leader_Bank" : {
+    "X" : "Y"
+    },
+    "Mason_Mac" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Capstone_Direct" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "First_Savings" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "Vellum" : {
+    "FullAppraisal" : "N",
+    "None" : "Y"
+    },
+    "Impac" : {
+    "Y" : "Y"
+    },
+    "First_Ohio" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Banner_Bank" : {
+    },
+    "Synovus" : {
+    "NULL" : "N",
+    "No Appraisal" : "Y"
+    },
+    "Churchill" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Bay_Equity" : {
+    },
+    "New_Wave" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "NTFN" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Ladera" : {
+    },
+    "Sovereign_Lending" : {
+    "X" : "Y"
+    },
+    "McLean" : {
+    "NO" : "N",
+    "YES" : "Y"
+    },
+    "ML_Mortgage" : {
+    "NO" : "N",
+    "YES" : "Y"
+    },
+    "Amerifirst" : {
+    "PIW" : "Y"
+    },
+    "Prosperity_Home_Mtge" : {
+    "No" : "N",
+    "Yes" : "Y"
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    "No Appraisal" : "Y"
+    },
+    "Jersey_Mortgage" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "First_Horizon" : {
+    },
+    "Golden_West" : {
+    "Full Appraisal" : "N",
+    "LP Waiver" : "Y",
+    "DU Waiver" : "Y"
+    },
+    "NVR" : {
+    },
+    "Absolute_Home" : {
+    "Exterior/Interior" : "N",
+    "No Appraisal" : "Y"
+    },
+    "Blue_Ridge" : {
+    },
+    "Neighbors_Bank" : {
+    "N" : "N",
+    "Y" : "Y"
+    },
+    "Severn" : {
+    },
+    "Coastal_Carolina" : {
+    },
+    "Stockton" : {
+    },
+    "DAS_Acquisition_Co" : {
+    },
+    "RMK_Majestic" : {
+    }
+}
+    
