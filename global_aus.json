@@ -1,0 +1,944 @@
+{
+    "MCT" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Investor AUS" : "LP",
+    "LPA" : "LP",
+    "Manual" : "Manual",
+    "MAN" : "Manual",
+    "GUS" : "GUS",
+    "NA" : "N/A",
+    "N/A" : "N/A",
+    "Streamline" : "N/A"
+    },
+    "Resitrader" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Not Specified" : "LP",
+    "Investor AUS" : "LP",
+    "Manual/Traditional" : "Manual",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Optimal_Blue" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Investor AUS" : "LP",
+    "Manual/Traditional" : "Manual"
+    },
+    "Southern_Trust" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Not Specified" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Manual/Traditional" : "Manual"
+    },
+    "CUMA" : {
+    "Fannie Mae DU" : "DU",
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Shadow" : {
+    "DU" : "DU",
+    "DU Approve/Eligible" : "DU",
+    "Approve/Eligible" : "DU",
+    "Fannie Mae" : "DU",
+    "FNMA Desktop Underwitten (DU)" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "LP Accept/Eligible" : "LP",
+    "Accept" : "LP",
+    "FHLMC Loan Prospector (LP)" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS",
+    "GU" : "GUS",
+    "Refer" : "N/A"
+    },
+    "Eagle_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Guaranteed_Rate" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "N/A" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Am_Pac_Mtge" : {
+    "DU" : "DU",
+    "Other" : "LP",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "George_Mason" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "WVB" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Manual" : "Manual"
+    },
+    "First_State_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "LPA" : "LP",
+    "GUS" : "GUS",
+    "NA" : "N/A"
+    },
+    "Harbor_One_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Bell_Bank_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP"
+    },
+    "Megastar_Financial" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "GUS" : "GUS"
+    },
+    "Home_Services" : {
+    "DU" : "DU",
+    "Other" : "LP",
+    "LP" : "LP",
+    "NULL" : "LP",
+    "LPA" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "First_Security_WA" : {
+    "APPROVE/ELIGIBLE" : "DU",
+    "ACCEPT" : "LP",
+    "LP" : "LP",
+    "REFER/ELIGIBLE" : "LP",
+    "MANUAL" : "Manual",
+    "Not applicable" : "N/A"
+    },
+    "Bank_of_Utah" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "LPA" : "LP",
+    "Other" : "LP",
+    "MAN" : "Manual",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "All_Western_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Manual/Traditional" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Apex_Home_Loans" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "First_Colony_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "The_Mortgage_Co" : {
+    "DU" : "DU",
+    " DU " : "DU",
+    "LP" : "LP",
+    "Manual Underwrite" : "Manual",
+    " GUS " : "GUS",
+    "GUS" : "GUS"
+    },
+    "Waterstone_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "N/A"
+    },
+    "Service_First_Mtge" : {
+    "DU ApproveEligible" : "DU",
+    "DU" : "DU",
+    "DU ReferEligible" : "DU",
+    "LP AcceptEligible" : "LP",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS AcceptEligible" : "GUS",
+    "GUS" : "GUS",
+    "NA" : "N/A",
+    "Other" : "N/A"
+    },
+    "First_Continental_Mtge" : {
+    "DU" : "DU",
+    "Approve Eligible" : "DU",
+    "LP" : "LP",
+    "Accept" : "LP",
+    "Manual" : "Manual",
+    "MANUAL" : "Manual",
+    "Manual UW IRRRL" : "Manual",
+    "GUS" : "GUS",
+    "USDA GUS" : "GUS"
+    },
+    "HomeAmerican_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual UW" : "Manual",
+    "Rural Services" : "GUS",
+    "GUS" : "GUS"
+    },
+    "New_America_Financial" : {
+    "DU" : "DU",
+    "Approve/Eligible" : "DU",
+    "Approved" : "DU",
+    "approve eligible" : "DU",
+    "approve / eligib" : "DU",
+    "approve/eligible" : "DU",
+    "approve" : "DU",
+    "Approv/Eligible" : "LP",
+    "LP" : "LP",
+    "Accept" : "LP",
+    "Accept/eligible" : "LP",
+    "a/e" : "LP",
+    "Approve Elgible" : "LP",
+    "Manual Underwriting" : "Manual",
+    "manual" : "Manual",
+    "GUS" : "GUS",
+    "Other" : "N/A",
+    "Refer" : "N/A",
+    "na" : "N/A"
+    },
+    "Homeside_Financial" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Other" : "LP",
+    "Manual/Traditional" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "SecurityNational_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "InterLinc_Mtge" : {
+    "DU" : "DU",
+    "Approve Eligible" : "DU",
+    "LP" : "LP",
+    "Accept" : "LP",
+    "Other" : "LP",
+    "Manual U" : "Manual",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Peoples_Bank" : {
+    "DU" : "DU"
+    },
+    "First_Commonwealth_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "N" : "LP",
+    "Manual" : "Manual"
+    },
+    "Angel_Oak_HL" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "First_Heritage_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "Intercoastal_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "Mortgage_One" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Reliance_First_Capital" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwrite" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Supreme_Lending" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "RealFi" : {
+    "DU" : "DU",
+    "DU Approve/Eligible" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Approve/Eligible" : "LP",
+    "LP Accept/Eligible" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Ruoff_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Bremer_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Investor AUS" : "LP",
+    "Manual/Traditional" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Town_Square_Mtge" : {
+    "DU" : "DU",
+    "Approve/Eligible" : "DU",
+    "LP" : "LP",
+    "Accept/Eligible" : "LP",
+    "Accept" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS",
+    "Refer/Eligible" : "N/A"
+    },
+    "Hamilton_Group_Funding" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "United_Mortgage" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "MANUAL" : "Manual"
+    },
+    "CrossCountry_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Direct_Mtge_Corp" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Streamline" : "N/A"
+    },
+    "Assurance_Financial" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "First_Home_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual"
+    },
+    "Evergreen_HL" : {
+    "DU" : "DU",
+    "Approve Eligible" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Accept Eligible" : "LP",
+    "Accept" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Primary_Residential_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Panorama" : {
+    "DU Approve/Eligible" : "DU",
+    "DU Refer/Eligible" : "DU",
+    "Approve/Eligible" : "DU",
+    "LP Accept/Eligible" : "LP",
+    "None" : "LP",
+    "LP Approve/Eligible" : "LP",
+    "Manual UW" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS Accept Eligible" : "GUS",
+    "GUS Accept/Eligible" : "GUS"
+    },
+    "Cherry_Creek_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "0" : "LP",
+    "Manual" : "LP",
+    "GUS" : "GUS"
+    },
+    "Trident_Mtge" : {
+    "Fannie Mae" : "DU",
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Tidewater_Mtge" : {
+    "Approve" : "DU",
+    "Approval" : "DU",
+    "APPROVED" : "DU",
+    "Approve/Eligible" : "DU",
+    "DU" : "DU",
+    "Approved/Eligible" : "DU",
+    "LP" : "LP",
+    "LPA" : "LP",
+    "Accept" : "LP",
+    "GUS" : "GUS",
+    "Accept/Eligible" : "GUS"
+    },
+    "WesBanco_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "K_Hovnanian_American_Mtge" : {
+    "DU Approve" : "DU",
+    "LP Accept" : "LP"
+    },
+    "TowneBank_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual"
+    },
+    "Ony_Glo" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "OnQ_Financial" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Manual" : "Manual"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Washington_Trust_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Manual/Traditional" : "Manual"
+    },
+    "Washington_Trust_Co_Westerly         " : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Manual/Traditional" : "Manual"
+    },
+    "Congressional_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "NBH_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Summit_Mtge_Bankers" : {
+    "DU" : "DU",
+    " DU " : "DU",
+    "LP" : "LP",
+    " LP " : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Planet_Home_Lending" : {
+    "DU" : "DU",
+    " DU " : "DU",
+    "LP" : "LP",
+    " LP " : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Homesite_Mtge" : {
+    "DU" : "DU",
+    " DU " : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwrite" : "Manual"
+    },
+    "Integrity_Home_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS",
+    "Other" : "N/A"
+    },
+    "AmCap_Mortgage" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual/Traditional" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "Not Specified" : "N/A"
+    },
+    "American_Security_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Academy_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "N/A"
+    },
+    "AMSCO" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "GU" : "GUS"
+    },
+    "Northern_Mortgage_Services" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Paramount_Residential" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS",
+    "Other" : "N/A"
+    },
+    "The_State_BT" : {
+    "DU" : "DU",
+    " LP " : "LP",
+    " Other " : "LP",
+    "LP" : "LP",
+    "Accept" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "NMSI" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Watermark_HL" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Not Specified" : "LP",
+    "Other" : "LP",
+    "Manual/Traditional" : "Manual",
+    "Manual Underwriting" : "Manual"
+    },
+    "Residential_Wholesale_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual UW" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Contour_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "The_Federal_Savings_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Parkside_Lending" : {
+    "DU_ApproveEligible" : "DU",
+    "DU_ReferEligible" : "DU",
+    "DU" : "DU",
+    "Lp_Refer" : "LP",
+    "LP_AcceptEligible" : "LP",
+    "LP" : "LP",
+    "GU" : "GUS",
+    "GUS_ReferEligible" : "GUS",
+    "NA" : "N/A",
+    "DU_ReferIneligible" : "N/A",
+    "DU_ApproveIneligible" : "N/A",
+    "LP_CautionIneligible" : "N/A"
+    },
+    "Compass_Mortgage" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS",
+    "NA" : "N/A"
+    },
+    "Alcova_Mortgage" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "Highlands" : {
+    "DU" : "DU",
+    "Manual Underwriting" : "Manual"
+    },
+    "LoanDepot.com" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "BNC_National_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual"
+    },
+    "Opportunity_Bank_of_Montana" : {
+    "DU Approve" : "DU",
+    "DU Approve/Eligible" : "DU",
+    "DU Refer" : "DU",
+    "Approve/Eligible" : "DU",
+    "Approve" : "DU",
+    "Refer/Eligible" : "DU",
+    "Approval Eligibl" : "DU",
+    "Accept/Eligible" : "LP",
+    "Accept" : "LP",
+    "LP" : "LP",
+    "Out of Scope" : "N/A"
+    },
+    "Embrace" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "The_Home_Loan_Expert" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Thompson_Kane" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "GUS" : "GUS"
+    },
+    "Platinum_Home_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "OTHER" : "LP",
+    "MANUAL UNDERWRITING" : "Manual"
+    },
+    "Premier_Mtge_Resources" : {
+    "DU" : "DU",
+    "LPA" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS",
+    "Other AUS" : "N/A"
+    },
+    "Great_Plains" : {
+    "APPROVE/ELIGIBLE" : "DU",
+    "Approve Eligible" : "DU",
+    "APPROVE" : "DU",
+    "Approve/Eigible" : "DU",
+    "DE UW AND APPROV" : "DU",
+    "DU" : "DU",
+    "ACCEPT" : "LP",
+    "Accept Eligible" : "LP",
+    "LP" : "LP",
+    "TOTAL" : "LP",
+    "Refer/Eligible" : "N/A"
+    },
+    "Freedom" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Cardinal_Financial" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Union_Bank_Trust" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "The_Equitable_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "Manual",
+    "GUS" : "GUS"
+    },
+    "FBC_Mortgage" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwrit" : "Manual",
+    "GUS" : "GUS"
+    },
+    "BM_Real_Estate" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Manual" : "Manual"
+    },
+    "First_BT" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "Manual",
+    "LQA" : "N/A"
+    },
+    "Sun_West" : {
+    "DU - APPROVE/ELIGIBLE" : "DU",
+    "LP/LPA - ACCEPT" : "LP"
+    },
+    "Total_Mtge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Summit_Funding" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Top_Flite" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "MLD_Moneystore" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual" : "Manual",
+    "Manual Underwriting" : "Manual"
+    },
+    "Alpine" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Residential_Bancorp" : {
+    "DU" : "DU",
+    "LPA" : "LP",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Southpoint_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Accept" : "LP",
+    "lp" : "LP",
+    "LPA" : "LP"
+    },
+    "Leader_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Mason_Mac" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "Capstone_Direct" : {
+    "DU Approve/Eligible" : "DU",
+    "LP Accept/Eligible" : "LP",
+    "None/Not Submitted" : "N/A"
+    },
+    "First_Savings" : {
+    "FNMA DU" : "DU",
+    "FHLMC LP" : "LP"
+    },
+    "Vellum" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "Impac" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "First_Ohio" : {
+    "DU" : "DU",
+    "Approve/Eligible" : "DU",
+    "LP" : "LP",
+    "Accept" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Banner_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Ot" : "Manual"
+    },
+    "Synovus" : {
+    "Approve/Eligible" : "DU",
+    "Approve/Ineligible" : "N/A",
+    "Refer/Eligible" : "N/A",
+    "NULL" : "N/A",
+    "Refer/Ineligible" : "N/A"
+    },
+    "Churchill" : {
+    "Approve/Eligible" : "DU",
+    "DU" : "DU",
+    "Accept" : "LP",
+    "LP" : "LP",
+    "ACCEPT" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS",
+    "Refer/Eligible" : "N/A",
+    "Other" : "N/A"
+    },
+    "Bay_Equity" : {
+    "DU" : "DU",
+    "LP" : "LP"
+    },
+    "New_Wave" : {
+    "APPROVE ELIGIBLE" : "DU",
+    "ACCEPT" : "LP"
+    },
+    "NTFN" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "N/A"
+    },
+    "Ladera" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "N/A"
+    },
+    "Sovereign_Lending" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual"
+    },
+    "McLean" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual U" : "Manual",
+    "Other" : "N/A"
+    },
+    "ML_Mortgage" : {
+    "DU Approve/Eligible" : "DU",
+    "DU" : "DU",
+    "LP Accept/Eligible" : "LP",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "Other" : "N/A",
+    "None/Not Submitted" : "N/A"
+    },
+    "Amerifirst" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Prosperity_Home_Mtge" : {
+    "DU" : "DU",
+    "LPA" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Jersey_Mortgage" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "GU" : "GUS"
+    },
+    "First_Horizon" : {
+    },
+    "Golden_West" : {
+    "DU" : "DU",
+    "Approve/Eligible" : "DU",
+    "LP" : "LP",
+    "Accept" : "LP"
+    },
+    "NVR" : {
+    "Approve/Eligible" : "DU",
+    "Accept" : "LP"
+    },
+    "Absolute_Home" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual"
+    },
+    "Blue_Ridge" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual Underwriting" : "Manual",
+    "Other" : "N/A"
+    },
+    "Neighbors_Bank" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Severn" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "Coastal_Carolina" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "N/A"
+    },
+    "Stockton" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Other" : "LP",
+    "Manual Underwriting" : "Manual",
+    "GUS" : "GUS"
+    },
+    "DAS_Acquisition_Co" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "Manual" : "Manual",
+    "GUS" : "GUS"
+    },
+    "RMK_Majestic" : {
+    "DU" : "DU",
+    "LP" : "LP",
+    "GUS" : "GUS"
+    }
+}
+    
