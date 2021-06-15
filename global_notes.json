@@ -1,0 +1,592 @@
+{
+    "MCT" : {
+    "FULL" : "0"
+    },
+    "Resitrader" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "HomeStyle Renovation" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Optimal_Blue" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Southern_Trust" : {
+    "None" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Home Possible" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "HFA Cook County" : "1",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "CUMA" : {
+    "Full Doc" : "0"
+    },
+    "Shadow" : {
+    "None" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Home Possible" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Eagle_Bank" : {
+    "FullDocumentation" : "0",
+    "StreamlineRefinance" : "0"
+    },
+    "Guaranteed_Rate" : {
+    },
+    "Am_Pac_Mtge" : {
+    },
+    "George_Mason" : {
+    },
+    "WVB" : {
+    "CashOutDebtConsolidation" : "0",
+    "CashOutHomeImprovement" : "0",
+    "CashOutLimited" : "0",
+    "CashOutOther" : "0",
+    "ChangeInRateTerm" : "0",
+    "NoCashOutOther" : "0",
+    "NULL" : "0",
+    "NoCashOutStreamlinedRefinance" : "0",
+    "NoCashOutFHAStreamlinedRefinance" : "0"
+    },
+    "First_State_Bank" : {
+    "FULL" : "0"
+    },
+    "Harbor_One_Mtge" : {
+    "Full Doc" : "0"
+    },
+    "Bell_Bank_Mtge" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Megastar_Financial" : {
+    "HomePossible" : "0",
+    "HomePossibleAdvantage" : "0",
+    "HomeReady" : "0"
+    },
+    "Home_Services" : {
+    "FULLDOC" : "0"
+    },
+    "First_Security_WA" : {
+    "F" : "0"
+    },
+    "Bank_of_Utah" : {
+    "FULL" : "0"
+    },
+    "All_Western_Mtge" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA  7-10 Financed Properties" : "1",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Apex_Home_Loans" : {
+    },
+    "First_Colony_Mtge" : {
+    "FullDocumentation" : "0"
+    },
+    "The_Mortgage_Co" : {
+    "USDA" : "0",
+    "HOME READY" : "0",
+    "HOME POSSIBLE" : "0",
+    " USDA " : "0",
+    " HOME READY " : "0"
+    },
+    "Waterstone_Mtge" : {
+    "FullDocumentation" : "0"
+    },
+    "Service_First_Mtge" : {
+    },
+    "First_Continental_Mtge" : {
+    "FULL" : "0",
+    "STREAMLINED REFINANCE" : "0"
+    },
+    "HomeAmerican_Mtge" : {
+    "FULL" : "0"
+    },
+    "New_America_Financial" : {
+    "FullDocumentation" : "0"
+    },
+    "Homeside_Financial" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "SecurityNational_Mtge" : {
+    "Full" : "0"
+    },
+    "InterLinc_Mtge" : {
+    "Full Documentation" : "0"
+    },
+    "Peoples_Bank" : {
+    },
+    "First_Commonwealth_Bank" : {
+    "HomePossibleAdvantage" : "0",
+    "USB PiggyB" : "0",
+    "HomePossible" : "0",
+    "HomeReady" : "0"
+    },
+    "Angel_Oak_HL" : {
+    },
+    "First_Heritage_Mtge" : {
+    "FullDocumentation" : "0"
+    },
+    "Intercoastal_Mtge" : {
+    "FullDocumentation" : "0"
+    },
+    "Mortgage_One" : {
+    "HOME POSSIBLE" : "0",
+    "HOME POSSIBLE ADVANTAGE" : "0",
+    "HOME READY" : "0",
+    "USDA" : "0"
+    },
+    "Reliance_First_Capital" : {
+    "FULL DOCS" : "0"
+    },
+    "Supreme_Lending" : {
+    "FullDocumentation" : "0"
+    },
+    "RealFi" : {
+    },
+    "Ruoff_Mtge" : {
+    "Home Possible Advantage" : "0",
+    "Home Ready" : "0"
+    },
+    "Bremer_Bank" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Town_Square_Mtge" : {
+    "FullDocumentation" : "0"
+    },
+    "Hamilton_Group_Funding" : {
+    "FullDoc" : "0"
+    },
+    "United_Mortgage" : {
+    "Full" : "0"
+    },
+    "CrossCountry_Mtge" : {
+    "HOME POSSIBLE" : "0"
+    },
+    "Direct_Mtge_Corp" : {
+    "Full Doc" : "0"
+    },
+    "Assurance_Financial" : {
+    "FULLDOC" : "0"
+    },
+    "First_Home_Mtge" : {
+    "LoanSubType" : "0"
+    },
+    "Evergreen_HL" : {
+    "FullDocumentation" : "0",
+    "Full" : "0"
+    },
+    "Primary_Residential_Mtge" : {
+    "FullDocumentation" : "0",
+    "(F) Full Documentation" : "0"
+    },
+    "Panorama" : {
+    "Full Document" : "0"
+    },
+    "Cherry_Creek_Mtge" : {
+    "Full/Alt Doc" : "0"
+    },
+    "Trident_Mtge" : {
+    "FULLDOC" : "0"
+    },
+    "Tidewater_Mtge" : {
+    "FullDocumentation" : "0"
+    },
+    "WesBanco_Bank" : {
+    },
+    "K_Hovnanian_American_Mtge" : {
+    },
+    "TowneBank_Mtge" : {
+    "FullDocumentation" : "0",
+    "(F) Full Documentation" : "0"
+    },
+    "Ony_Glo" : {
+    "FULL" : "0"
+    },
+    "OnQ_Financial" : {
+    "FullDocumentation" : "0"
+    },
+    "Guaranteed_Rate_Affinity" : {
+    },
+    "Washington_Trust_Mtge" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Washington_Trust_Co_Westerly         " : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Congressional_Bank" : {
+    "(F) Full Documentation" : "0",
+    "FullDocumentation" : "0",
+    "(B) Streamline Refinance" : "0"
+    },
+    "NBH_Bank" : {
+    "FullDocumentation" : "0"
+    },
+    "Summit_Mtge_Bankers" : {
+    "FULL DOCS" : "0"
+    },
+    "Planet_Home_Lending" : {
+    "FULL" : "0",
+    "FullDocumentation" : "0"
+    },
+    "Homesite_Mtge" : {
+    },
+    "Integrity_Home_Mtge" : {
+    },
+    "AmCap_Mortgage" : {
+    },
+    "American_Security_Mtge" : {
+    },
+    "First_Horizon" : {
+    },
+    "Academy_Mtge" : {
+    },
+    "AMSCO" : {
+    "HOME READY" : "0",
+    "USDA" : "0"
+    },
+    "Northern_Mortgage_Services" : {
+    },
+    "Paramount_Residential" : {
+    "FullDocumentation" : "0",
+    "HomeReady 30 Year Fixed" : "0"
+    },
+    "The_State_BT" : {
+    " USDA " : "0"
+    },
+    "NMSI" : {
+    "FULL" : "0"
+    },
+    "Watermark_HL" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Residential_Wholesale_Mtge" : {
+    },
+    "Contour_Mtge" : {
+    "FullDocumentation" : "0",
+    "FULL" : "0"
+    },
+    "The_Federal_Savings_Bank" : {
+    "FullDocumentation" : "0"
+    },
+    "Parkside_Lending" : {
+    "Full" : "0"
+    },
+    "Compass_Mortgage" : {
+    "FullDocumentation" : "0",
+    "(F) Full Documentation" : "0"
+    },
+    "Alcova_Mortgage" : {
+    "FullDocumentation" : "0"
+    },
+    "Highlands" : {
+    "FullDocumentation" : "0"
+    },
+    "LoanDepot.com" : {
+    },
+    "BNC_National_Bank" : {
+    },
+    "Opportunity_Bank_of_Montana" : {
+    "FullDocumentation" : "0"
+    },
+    "Embrace" : {
+    },
+    "The_Home_Loan_Expert" : {
+    "FULL" : "0"
+    },
+    "Thompson_Kane" : {
+    "Full Documentation" : "0",
+    "HomeReady" : "0"
+    },
+    "Platinum_Home_Mtge" : {
+    "Full Doc" : "0"
+    },
+    "Premier_Mtge_Resources" : {
+    },
+    "Great_Plains" : {
+    },
+    "Freedom" : {
+    },
+    "Cardinal_Financial" : {
+    },
+    "Union_Bank_Trust" : {
+    "Full Doc" : "0"
+    },
+    "The_Equitable_Mtge" : {
+    },
+    "FBC_Mortgage" : {
+    "HomeReady" : "0",
+    "N" : "0"
+    },
+    "BM_Real_Estate" : {
+    "Full Doc" : "0"
+    },
+    "First_BT" : {
+    "FULLDOC" : "0"
+    },
+    "Sun_West" : {
+    "FULL DOC" : "0"
+    },
+    "Total_Mtge" : {
+    },
+    "Summit_Funding" : {
+    },
+    "Top_Flite" : {
+    },
+    "MLD_Moneystore" : {
+    "None" : "0",
+    "Home Possible" : "0",
+    "High Balance" : "0",
+    "Streamline" : "0",
+    "IRRRL" : "0",
+    "Financed MI" : "0",
+    "Non Credit Qualifying" : "0",
+    "5-10 Financed Properties" : "0",
+    "Home Ready" : "0",
+    "FNMA HomeReady" : "0",
+    "USDA" : "0",
+    "FNMA 7-10 Properties" : "1",
+    "7-10 FNMA Financed Properties" : "1",
+    "Home Style Renovation" : "1",
+    "FHA $100 Down - HUD REO Properties" : "1",
+    "HomeStyle Renovation" : "1",
+    "Open Access" : "1",
+    "DU Refi Plus" : "1"
+    },
+    "Alpine" : {
+    },
+    "Residential_Bancorp" : {
+    "Alternative" : "0",
+    "Full" : "0"
+    },
+    "Southpoint_Bank" : {
+    "FullDocumentation" : "0"
+    },
+    "Leader_Bank" : {
+    "FullDocumentation" : "0"
+    },
+    "Mason_Mac" : {
+    },
+    "Capstone_Direct" : {
+    },
+    "First_Savings" : {
+    },
+    "Vellum" : {
+    },
+    "Impac" : {
+    },
+    "First_Ohio" : {
+    },
+    "Banner_Bank" : {
+    },
+    "Synovus" : {
+    },
+    "Churchill" : {
+    },
+    "Bay_Equity" : {
+    },
+    "New_Wave" : {
+    },
+    "NTFN" : {
+    },
+    "Ladera" : {
+    },
+    "Sovereign_Lending" : {
+    },
+    "McLean" : {
+    },
+    "ML_Mortgage" : {
+    },
+    "Amerifirst" : {
+    },
+    "Prosperity_Home_Mtge" : {
+    },
+    "First_2nd_Mtge_Co_NJ" : {
+    },
+    "Jersey_Mortgage" : {
+    },
+    "Golden_West" : {
+    },
+    "NVR" : {
+    },
+    "Absolute_Home" : {
+    },
+    "Blue_Ridge" : {
+    },
+    "Neighbors_Bank" : {
+    },
+    "Severn" : {
+    },
+    "Coastal_Carolina" : {
+    },
+    "Stockton" : {
+    },
+    "DAS_Acquisition_Co" : {
+    },
+    "RMK_Majestic" : {
+    }
+}    
