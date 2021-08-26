@@ -1,7 +1,4 @@
 {
-    "MCT" : {
-    "Full" : "0"
-    },
     "Resitrader" : {
     "None" : "0",
     "Home Possible" : "0",
@@ -22,6 +19,9 @@
     "Open Access" : "1",
     "DU Refi Plus" : "1"
     },
+    "MCT" : {
+        "Full" : "0"
+        },
     "Optimal_Blue" : {
     "None" : "0",
     "Home Possible" : "0",
