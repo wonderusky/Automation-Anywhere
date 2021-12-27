@@ -1,5 +1,4 @@
 {
-  "po" : {
     "POC3000380" : {
           "ship_to" :  "GENERAL MAIN STORE Lot 83211, Persiaran Batu Nilam/KS 6, Bandar Bukit Tinggi 1, 41200 Klang, Selangor Darul Ehsan, Malaysia.", 
           "total"      :  "1100",
@@ -3695,4 +3694,3 @@
             }
       }
    }
-}
